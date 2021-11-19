@@ -1,0 +1,3527 @@
+,State,County,Min_Wage
+2,Alabama,Autauga County,$7.25
+5,Alabama,Baldwin County,$7.25
+8,Alabama,Barbour County,$7.25
+11,Alabama,Bibb County,$7.25
+14,Alabama,Blount County,$7.25
+17,Alabama,Bullock County,$7.25
+20,Alabama,Butler County,$7.25
+23,Alabama,Calhoun County,$7.25
+26,Alabama,Chambers County,$7.25
+29,Alabama,Cherokee County,$7.25
+32,Alabama,Chilton County,$7.25
+35,Alabama,Choctaw County,$7.25
+38,Alabama,Clarke County,$7.25
+41,Alabama,Clay County,$7.25
+44,Alabama,Cleburne County,$7.25
+47,Alabama,Coffee County,$7.25
+50,Alabama,Colbert County,$7.25
+53,Alabama,Conecuh County,$7.25
+56,Alabama,Coosa County,$7.25
+59,Alabama,Covington County,$7.25
+62,Alabama,Crenshaw County,$7.25
+65,Alabama,Cullman County,$7.25
+68,Alabama,Dale County,$7.25
+71,Alabama,Dallas County,$7.25
+74,Alabama,DeKalb County,$7.25
+77,Alabama,Elmore County,$7.25
+80,Alabama,Escambia County,$7.25
+83,Alabama,Etowah County,$7.25
+86,Alabama,Fayette County,$7.25
+89,Alabama,Franklin County,$7.25
+92,Alabama,Geneva County,$7.25
+95,Alabama,Greene County,$7.25
+98,Alabama,Hale County,$7.25
+101,Alabama,Henry County,$7.25
+104,Alabama,Houston County,$7.25
+107,Alabama,Jackson County,$7.25
+110,Alabama,Jefferson County,$7.25
+113,Alabama,Lamar County,$7.25
+116,Alabama,Lauderdale County,$7.25
+119,Alabama,Lawrence County,$7.25
+122,Alabama,Lee County,$7.25
+125,Alabama,Limestone County,$7.25
+128,Alabama,Lowndes County,$7.25
+131,Alabama,Macon County,$7.25
+134,Alabama,Madison County,$7.25
+137,Alabama,Marengo County,$7.25
+140,Alabama,Marion County,$7.25
+143,Alabama,Marshall County,$7.25
+146,Alabama,Mobile County,$7.25
+149,Alabama,Monroe County,$7.25
+152,Alabama,Montgomery County,$7.25
+155,Alabama,Morgan County,$7.25
+158,Alabama,Perry County,$7.25
+161,Alabama,Pickens County,$7.25
+164,Alabama,Pike County,$7.25
+167,Alabama,Randolph County,$7.25
+170,Alabama,Russell County,$7.25
+173,Alabama,Shelby County,$7.25
+176,Alabama,St. Clair County,$7.25
+179,Alabama,Sumter County,$7.25
+182,Alabama,Talladega County,$7.25
+185,Alabama,Tallapoosa County,$7.25
+188,Alabama,Tuscaloosa County,$7.25
+191,Alabama,Walker County,$7.25
+194,Alabama,Washington County,$7.25
+197,Alabama,Wilcox County,$7.25
+200,Alabama,Winston County,$7.25
+203,Alabama,"Anniston-Oxford-Jacksonville, AL",$7.25
+206,Alabama,"Auburn-Opelika, AL",$7.25
+209,Alabama,"Birmingham-Hoover, AL",$7.25
+212,Alabama,"Daphne-Fairhope-Foley, AL",$7.25
+215,Alabama,"Decatur, AL",$7.25
+218,Alabama,"Dothan, AL",$7.25
+221,Alabama,"Florence-Muscle Shoals, AL",$7.25
+224,Alabama,"Gadsden, AL",$7.25
+227,Alabama,"Huntsville, AL",$7.25
+230,Alabama,"Mobile, AL",$7.25
+233,Alabama,"Montgomery, AL",$7.25
+236,Alabama,"Tuscaloosa, AL",$7.25
+239,Alaska,Aleutians East Borough,$10.19
+242,Alaska,Aleutians West Census Area,$10.19
+245,Alaska,Anchorage Municipality,$10.19
+248,Alaska,Bethel Census Area,$10.19
+251,Alaska,Bristol Bay Borough,$10.19
+254,Alaska,Denali Borough,$10.19
+257,Alaska,Dillingham Census Area,$10.19
+260,Alaska,Fairbanks North Star Borough,$10.19
+263,Alaska,Haines Borough,$10.19
+266,Alaska,Hoonah-Angoon Census Area,$10.19
+269,Alaska,Juneau City and Borough,$10.19
+272,Alaska,Kenai Peninsula Borough,$10.19
+275,Alaska,Ketchikan Gateway Borough,$10.19
+278,Alaska,Kodiak Island Borough,$10.19
+281,Alaska,Kusilvak Census Area,$10.19
+284,Alaska,Lake and Peninsula Borough,$10.19
+287,Alaska,Matanuska-Susitna Borough,$10.19
+290,Alaska,Nome Census Area,$10.19
+293,Alaska,North Slope Borough,$10.19
+296,Alaska,Northwest Arctic Borough,$10.19
+299,Alaska,Petersburg Borough,$10.19
+302,Alaska,Prince of Wales-Hyder Census Area,$10.19
+305,Alaska,Sitka City and Borough,$10.19
+308,Alaska,Skagway Municipality,$10.19
+311,Alaska,Southeast Fairbanks Census Area,$10.19
+314,Alaska,Valdez-Cordova Census Area,$10.19
+317,Alaska,Wrangell City and Borough,$10.19
+320,Alaska,Yakutat City and Borough,$10.19
+323,Alaska,Yukon-Koyukuk Census Area,$10.19
+326,Alaska,"Anchorage, AK",$10.19
+329,Alaska,"Fairbanks, AK",$10.19
+332,Arizona,Apache County,$12.00
+335,Arizona,Cochise County,$12.00
+338,Arizona,Coconino County,$12.00
+341,Arizona,Gila County,$12.00
+344,Arizona,Graham County,$12.00
+347,Arizona,Greenlee County,$12.00
+350,Arizona,La Paz County,$12.00
+353,Arizona,Maricopa County,$12.00
+356,Arizona,Mohave County,$12.00
+359,Arizona,Navajo County,$12.00
+362,Arizona,Pima County,$12.00
+365,Arizona,Pinal County,$12.00
+368,Arizona,Santa Cruz County,$12.00
+371,Arizona,Yavapai County,$12.00
+374,Arizona,Yuma County,$12.00
+377,Arizona,"Flagstaff, AZ",$12.00
+380,Arizona,"Lake Havasu City-Kingman, AZ",$12.00
+383,Arizona,"Phoenix-Mesa-Scottsdale, AZ",$12.00
+386,Arizona,"Prescott, AZ",$12.00
+389,Arizona,"Sierra Vista-Douglas, AZ",$12.00
+392,Arizona,"Tucson, AZ",$12.00
+395,Arizona,"Yuma, AZ",$12.00
+398,Arkansas,Arkansas County,$10.00
+401,Arkansas,Ashley County,$10.00
+404,Arkansas,Baxter County,$10.00
+407,Arkansas,Benton County,$10.00
+410,Arkansas,Boone County,$10.00
+413,Arkansas,Bradley County,$10.00
+416,Arkansas,Calhoun County,$10.00
+419,Arkansas,Carroll County,$10.00
+422,Arkansas,Chicot County,$10.00
+425,Arkansas,Clark County,$10.00
+428,Arkansas,Clay County,$10.00
+431,Arkansas,Cleburne County,$10.00
+434,Arkansas,Cleveland County,$10.00
+437,Arkansas,Columbia County,$10.00
+440,Arkansas,Conway County,$10.00
+443,Arkansas,Craighead County,$10.00
+446,Arkansas,Crawford County,$10.00
+449,Arkansas,Crittenden County,$10.00
+452,Arkansas,Cross County,$10.00
+455,Arkansas,Dallas County,$10.00
+458,Arkansas,Desha County,$10.00
+461,Arkansas,Drew County,$10.00
+464,Arkansas,Faulkner County,$10.00
+467,Arkansas,Franklin County,$10.00
+470,Arkansas,Fulton County,$10.00
+473,Arkansas,Garland County,$10.00
+476,Arkansas,Grant County,$10.00
+479,Arkansas,Greene County,$10.00
+482,Arkansas,Hempstead County,$10.00
+485,Arkansas,Hot Spring County,$10.00
+488,Arkansas,Howard County,$10.00
+491,Arkansas,Independence County,$10.00
+494,Arkansas,Izard County,$10.00
+497,Arkansas,Jackson County,$10.00
+500,Arkansas,Jefferson County,$10.00
+503,Arkansas,Johnson County,$10.00
+506,Arkansas,Lafayette County,$10.00
+509,Arkansas,Lawrence County,$10.00
+512,Arkansas,Lee County,$10.00
+515,Arkansas,Lincoln County,$10.00
+518,Arkansas,Little River County,$10.00
+521,Arkansas,Logan County,$10.00
+524,Arkansas,Lonoke County,$10.00
+527,Arkansas,Madison County,$10.00
+530,Arkansas,Marion County,$10.00
+533,Arkansas,Miller County,$10.00
+536,Arkansas,Mississippi County,$10.00
+539,Arkansas,Monroe County,$10.00
+542,Arkansas,Montgomery County,$10.00
+545,Arkansas,Nevada County,$10.00
+548,Arkansas,Newton County,$10.00
+551,Arkansas,Ouachita County,$10.00
+554,Arkansas,Perry County,$10.00
+557,Arkansas,Phillips County,$10.00
+560,Arkansas,Pike County,$10.00
+563,Arkansas,Poinsett County,$10.00
+566,Arkansas,Polk County,$10.00
+569,Arkansas,Pope County,$10.00
+572,Arkansas,Prairie County,$10.00
+575,Arkansas,Pulaski County,$10.00
+578,Arkansas,Randolph County,$10.00
+581,Arkansas,Saline County,$10.00
+584,Arkansas,Scott County,$10.00
+587,Arkansas,Searcy County,$10.00
+590,Arkansas,Sebastian County,$10.00
+593,Arkansas,Sevier County,$10.00
+596,Arkansas,Sharp County,$10.00
+599,Arkansas,St. Francis County,$10.00
+602,Arkansas,Stone County,$10.00
+605,Arkansas,Union County,$10.00
+608,Arkansas,Van Buren County,$10.00
+611,Arkansas,Washington County,$10.00
+614,Arkansas,White County,$10.00
+617,Arkansas,Woodruff County,$10.00
+620,Arkansas,Yell County,$10.00
+623,Arkansas,"Fayetteville-Springdale-Rogers, AR",$10.00
+626,Arkansas,"Fort Smith, AR",$10.00
+629,Arkansas,"Hot Springs, AR",$10.00
+632,Arkansas,"Jonesboro, AR",$10.00
+635,Arkansas,"Little Rock-North Little Rock-Conway, AR",$10.00
+638,Arkansas,"Pine Bluff, AR",$10.00
+641,California,Alameda County,$12.00
+644,California,Alpine County,$12.00
+647,California,Amador County,$12.00
+650,California,Butte County,$12.00
+653,California,Calaveras County,$12.00
+656,California,Colusa County,$12.00
+659,California,Contra Costa County,$12.00
+662,California,Del Norte County,$12.00
+665,California,El Dorado County,$12.00
+668,California,Fresno County,$12.00
+671,California,Glenn County,$12.00
+674,California,Humboldt County,$12.00
+677,California,Imperial County,$12.00
+680,California,Inyo County,$12.00
+683,California,Kern County,$12.00
+686,California,Kings County,$12.00
+689,California,Lake County,$12.00
+692,California,Lassen County,$12.00
+695,California,Los Angeles County,$12.00
+698,California,Madera County,$12.00
+701,California,Marin County,$12.00
+704,California,Mariposa County,$12.00
+707,California,Mendocino County,$12.00
+710,California,Merced County,$12.00
+713,California,Modoc County,$12.00
+716,California,Mono County,$12.00
+719,California,Monterey County,$12.00
+722,California,Napa County,$12.00
+725,California,Nevada County,$12.00
+728,California,Orange County,$12.00
+731,California,Placer County,$12.00
+734,California,Plumas County,$12.00
+737,California,Riverside County,$12.00
+740,California,Sacramento County,$12.00
+743,California,San Benito County,$12.00
+746,California,San Bernardino County,$12.00
+749,California,San Diego County,$12.00
+752,California,San Francisco County,$12.00
+755,California,San Joaquin County,$12.00
+758,California,San Luis Obispo County,$12.00
+761,California,San Mateo County,$12.00
+764,California,Santa Barbara County,$12.00
+767,California,Santa Clara County,$12.00
+770,California,Santa Cruz County,$12.00
+773,California,Shasta County,$12.00
+776,California,Sierra County,$12.00
+779,California,Siskiyou County,$12.00
+782,California,Solano County,$12.00
+785,California,Sonoma County,$12.00
+788,California,Stanislaus County,$12.00
+791,California,Sutter County,$12.00
+794,California,Tehama County,$12.00
+797,California,Trinity County,$12.00
+800,California,Tulare County,$12.00
+803,California,Tuolumne County,$12.00
+806,California,Ventura County,$12.00
+809,California,Yolo County,$12.00
+812,California,Yuba County,$12.00
+815,California,"Bakersfield, CA",$12.00
+818,California,"Chico, CA",$12.00
+821,California,"El Centro, CA",$12.00
+824,California,"Fresno, CA",$12.00
+827,California,"Hanford-Corcoran, CA",$12.00
+830,California,"Los Angeles-Long Beach-Anaheim, CA",$12.00
+833,California,"Madera, CA",$12.00
+836,California,"Merced, CA",$12.00
+839,California,"Modesto, CA",$12.00
+842,California,"Napa, CA",$12.00
+845,California,"Oxnard-Thousand Oaks-Ventura, CA",$12.00
+848,California,"Redding, CA",$12.00
+851,California,"Riverside-San Bernardino-Ontario, CA",$12.00
+854,California,"Sacramento--Roseville--Arden-Arcade, CA",$12.00
+857,California,"Salinas, CA",$12.00
+860,California,"San Diego-Carlsbad, CA",$12.00
+863,California,"San Francisco-Oakland-Hayward, CA",$12.00
+866,California,"San Jose-Sunnyvale-Santa Clara, CA",$12.00
+869,California,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",$12.00
+872,California,"Santa Cruz-Watsonville, CA",$12.00
+875,California,"Santa Maria-Santa Barbara, CA",$12.00
+878,California,"Santa Rosa, CA",$12.00
+881,California,"Stockton-Lodi, CA",$12.00
+884,California,"Vallejo-Fairfield, CA",$12.00
+887,California,"Visalia-Porterville, CA",$12.00
+890,California,"Yuba City, CA",$12.00
+893,Colorado,Adams County,$12.00
+896,Colorado,Alamosa County,$12.00
+899,Colorado,Arapahoe County,$12.00
+902,Colorado,Archuleta County,$12.00
+905,Colorado,Baca County,$12.00
+908,Colorado,Bent County,$12.00
+911,Colorado,Boulder County,$12.00
+914,Colorado,Broomfield County,$12.00
+917,Colorado,Chaffee County,$12.00
+920,Colorado,Cheyenne County,$12.00
+923,Colorado,Clear Creek County,$12.00
+926,Colorado,Conejos County,$12.00
+929,Colorado,Costilla County,$12.00
+932,Colorado,Crowley County,$12.00
+935,Colorado,Custer County,$12.00
+938,Colorado,Delta County,$12.00
+941,Colorado,Denver County,$12.00
+944,Colorado,Dolores County,$12.00
+947,Colorado,Douglas County,$12.00
+950,Colorado,Eagle County,$12.00
+953,Colorado,Elbert County,$12.00
+956,Colorado,El Paso County,$12.00
+959,Colorado,Fremont County,$12.00
+962,Colorado,Garfield County,$12.00
+965,Colorado,Gilpin County,$12.00
+968,Colorado,Grand County,$12.00
+971,Colorado,Gunnison County,$12.00
+974,Colorado,Hinsdale County,$12.00
+977,Colorado,Huerfano County,$12.00
+980,Colorado,Jackson County,$12.00
+983,Colorado,Jefferson County,$12.00
+986,Colorado,Kiowa County,$12.00
+989,Colorado,Kit Carson County,$12.00
+992,Colorado,Lake County,$12.00
+995,Colorado,La Plata County,$12.00
+998,Colorado,Larimer County,$12.00
+1001,Colorado,Las Animas County,$12.00
+1004,Colorado,Lincoln County,$12.00
+1007,Colorado,Logan County,$12.00
+1010,Colorado,Mesa County,$12.00
+1013,Colorado,Mineral County,$12.00
+1016,Colorado,Moffat County,$12.00
+1019,Colorado,Montezuma County,$12.00
+1022,Colorado,Montrose County,$12.00
+1025,Colorado,Morgan County,$12.00
+1028,Colorado,Otero County,$12.00
+1031,Colorado,Ouray County,$12.00
+1034,Colorado,Park County,$12.00
+1037,Colorado,Phillips County,$12.00
+1040,Colorado,Pitkin County,$12.00
+1043,Colorado,Prowers County,$12.00
+1046,Colorado,Pueblo County,$12.00
+1049,Colorado,Rio Blanco County,$12.00
+1052,Colorado,Rio Grande County,$12.00
+1055,Colorado,Routt County,$12.00
+1058,Colorado,Saguache County,$12.00
+1061,Colorado,San Juan County,$12.00
+1064,Colorado,San Miguel County,$12.00
+1067,Colorado,Sedgwick County,$12.00
+1070,Colorado,Summit County,$12.00
+1073,Colorado,Teller County,$12.00
+1076,Colorado,Washington County,$12.00
+1079,Colorado,Weld County,$12.00
+1082,Colorado,Yuma County,$12.00
+1085,Colorado,"Boulder, CO",$12.00
+1088,Colorado,"Colorado Springs, CO",$12.00
+1091,Colorado,"Denver-Aurora-Lakewood, CO",$12.00
+1094,Colorado,"Fort Collins, CO",$12.00
+1097,Colorado,"Grand Junction, CO",$12.00
+1100,Colorado,"Greeley, CO",$12.00
+1103,Colorado,"Pueblo, CO",$12.00
+1106,Connecticut,Fairfield County,$12.00
+1109,Connecticut,Hartford County,$12.00
+1112,Connecticut,Litchfield County,$12.00
+1115,Connecticut,Middlesex County,$12.00
+1118,Connecticut,New Haven County,$12.00
+1121,Connecticut,New London County,$12.00
+1124,Connecticut,Tolland County,$12.00
+1127,Connecticut,Windham County,$12.00
+1130,Connecticut,"Bridgeport-Stamford-Norwalk, CT",$12.00
+1133,Connecticut,"Hartford-West Hartford-East Hartford, CT",$12.00
+1136,Connecticut,"New Haven-Milford, CT",$12.00
+1139,Connecticut,"Norwich-New London, CT",$12.00
+1142,Delaware,Kent County,$9.25
+1145,Delaware,New Castle County,$9.25
+1148,Delaware,Sussex County,$9.25
+1151,Delaware,"Dover, DE",$9.25
+1154,District of Columbia,District of Columbia,$13.25
+1157,District of Columbia,"Washington-Arlington-Alexandria, DC",$13.25
+1160,Florida,Alachua County,$8.56
+1163,Florida,Baker County,$8.56
+1166,Florida,Bay County,$8.56
+1169,Florida,Bradford County,$8.56
+1172,Florida,Brevard County,$8.56
+1175,Florida,Broward County,$8.56
+1178,Florida,Calhoun County,$8.56
+1181,Florida,Charlotte County,$8.56
+1184,Florida,Citrus County,$8.56
+1187,Florida,Clay County,$8.56
+1190,Florida,Collier County,$8.56
+1193,Florida,Columbia County,$8.56
+1196,Florida,DeSoto County,$8.56
+1199,Florida,Dixie County,$8.56
+1202,Florida,Duval County,$8.56
+1205,Florida,Escambia County,$8.56
+1208,Florida,Flagler County,$8.56
+1211,Florida,Franklin County,$8.56
+1214,Florida,Gadsden County,$8.56
+1217,Florida,Gilchrist County,$8.56
+1220,Florida,Glades County,$8.56
+1223,Florida,Gulf County,$8.56
+1226,Florida,Hamilton County,$8.56
+1229,Florida,Hardee County,$8.56
+1232,Florida,Hendry County,$8.56
+1235,Florida,Hernando County,$8.56
+1238,Florida,Highlands County,$8.56
+1241,Florida,Hillsborough County,$8.56
+1244,Florida,Holmes County,$8.56
+1247,Florida,Indian River County,$8.56
+1250,Florida,Jackson County,$8.56
+1253,Florida,Jefferson County,$8.56
+1256,Florida,Lafayette County,$8.56
+1259,Florida,Lake County,$8.56
+1262,Florida,Lee County,$8.56
+1265,Florida,Leon County,$8.56
+1268,Florida,Levy County,$8.56
+1271,Florida,Liberty County,$8.56
+1274,Florida,Madison County,$8.56
+1277,Florida,Manatee County,$8.56
+1280,Florida,Marion County,$8.56
+1283,Florida,Martin County,$8.56
+1286,Florida,Miami-Dade County,$8.56
+1289,Florida,Monroe County,$8.56
+1292,Florida,Nassau County,$8.56
+1295,Florida,Okaloosa County,$8.56
+1298,Florida,Okeechobee County,$8.56
+1301,Florida,Orange County,$8.56
+1304,Florida,Osceola County,$8.56
+1307,Florida,Palm Beach County,$8.56
+1310,Florida,Pasco County,$8.56
+1313,Florida,Pinellas County,$8.56
+1316,Florida,Polk County,$8.56
+1319,Florida,Putnam County,$8.56
+1322,Florida,Santa Rosa County,$8.56
+1325,Florida,Sarasota County,$8.56
+1328,Florida,Seminole County,$8.56
+1331,Florida,St. Johns County,$8.56
+1334,Florida,St. Lucie County,$8.56
+1337,Florida,Sumter County,$8.56
+1340,Florida,Suwannee County,$8.56
+1343,Florida,Taylor County,$8.56
+1346,Florida,Union County,$8.56
+1349,Florida,Volusia County,$8.56
+1352,Florida,Wakulla County,$8.56
+1355,Florida,Walton County,$8.56
+1358,Florida,Washington County,$8.56
+1361,Florida,"Cape Coral-Fort Myers, FL",$8.56
+1364,Florida,"Crestview-Fort Walton Beach-Destin, FL",$8.56
+1367,Florida,"Deltona-Daytona Beach-Ormond Beach, FL",$8.56
+1370,Florida,"Gainesville, FL",$8.56
+1373,Florida,"Homosassa Springs, FL",$8.56
+1376,Florida,"Jacksonville, FL",$8.56
+1379,Florida,"Lakeland-Winter Haven, FL",$8.56
+1382,Florida,"Miami-Fort Lauderdale-West Palm Beach, FL",$8.56
+1385,Florida,"Naples-Immokalee-Marco Island, FL",$8.56
+1388,Florida,"North Port-Sarasota-Bradenton, FL",$8.56
+1391,Florida,"Ocala, FL",$8.56
+1394,Florida,"Orlando-Kissimmee-Sanford, FL",$8.56
+1397,Florida,"Palm Bay-Melbourne-Titusville, FL",$8.56
+1400,Florida,"Panama City, FL",$8.56
+1403,Florida,"Pensacola-Ferry Pass-Brent, FL",$8.56
+1406,Florida,"Port St. Lucie, FL",$8.56
+1409,Florida,"Punta Gorda, FL",$8.56
+1412,Florida,"Sebastian-Vero Beach, FL",$8.56
+1415,Florida,"Sebring, FL",$8.56
+1418,Florida,"Tallahassee, FL",$8.56
+1421,Florida,"Tampa-St. Petersburg-Clearwater, FL",$8.56
+1424,Florida,"The Villages, FL",$8.56
+1427,Georgia,Appling County,$7.25
+1430,Georgia,Atkinson County,$7.25
+1433,Georgia,Bacon County,$7.25
+1436,Georgia,Baker County,$7.25
+1439,Georgia,Baldwin County,$7.25
+1442,Georgia,Banks County,$7.25
+1445,Georgia,Barrow County,$7.25
+1448,Georgia,Bartow County,$7.25
+1451,Georgia,Ben Hill County,$7.25
+1454,Georgia,Berrien County,$7.25
+1457,Georgia,Bibb County,$7.25
+1460,Georgia,Bleckley County,$7.25
+1463,Georgia,Brantley County,$7.25
+1466,Georgia,Brooks County,$7.25
+1469,Georgia,Bryan County,$7.25
+1472,Georgia,Bulloch County,$7.25
+1475,Georgia,Burke County,$7.25
+1478,Georgia,Butts County,$7.25
+1481,Georgia,Calhoun County,$7.25
+1484,Georgia,Camden County,$7.25
+1487,Georgia,Candler County,$7.25
+1490,Georgia,Carroll County,$7.25
+1493,Georgia,Catoosa County,$7.25
+1496,Georgia,Charlton County,$7.25
+1499,Georgia,Chatham County,$7.25
+1502,Georgia,Chattahoochee County,$7.25
+1505,Georgia,Chattooga County,$7.25
+1508,Georgia,Cherokee County,$7.25
+1511,Georgia,Clarke County,$7.25
+1514,Georgia,Clay County,$7.25
+1517,Georgia,Clayton County,$7.25
+1520,Georgia,Clinch County,$7.25
+1523,Georgia,Cobb County,$7.25
+1526,Georgia,Coffee County,$7.25
+1529,Georgia,Colquitt County,$7.25
+1532,Georgia,Columbia County,$7.25
+1535,Georgia,Cook County,$7.25
+1538,Georgia,Coweta County,$7.25
+1541,Georgia,Crawford County,$7.25
+1544,Georgia,Crisp County,$7.25
+1547,Georgia,Dade County,$7.25
+1550,Georgia,Dawson County,$7.25
+1553,Georgia,Decatur County,$7.25
+1556,Georgia,DeKalb County,$7.25
+1559,Georgia,Dodge County,$7.25
+1562,Georgia,Dooly County,$7.25
+1565,Georgia,Dougherty County,$7.25
+1568,Georgia,Douglas County,$7.25
+1571,Georgia,Early County,$7.25
+1574,Georgia,Echols County,$7.25
+1577,Georgia,Effingham County,$7.25
+1580,Georgia,Elbert County,$7.25
+1583,Georgia,Emanuel County,$7.25
+1586,Georgia,Evans County,$7.25
+1589,Georgia,Fannin County,$7.25
+1592,Georgia,Fayette County,$7.25
+1595,Georgia,Floyd County,$7.25
+1598,Georgia,Forsyth County,$7.25
+1601,Georgia,Franklin County,$7.25
+1604,Georgia,Fulton County,$7.25
+1607,Georgia,Gilmer County,$7.25
+1610,Georgia,Glascock County,$7.25
+1613,Georgia,Glynn County,$7.25
+1616,Georgia,Gordon County,$7.25
+1619,Georgia,Grady County,$7.25
+1622,Georgia,Greene County,$7.25
+1625,Georgia,Gwinnett County,$7.25
+1628,Georgia,Habersham County,$7.25
+1631,Georgia,Hall County,$7.25
+1634,Georgia,Hancock County,$7.25
+1637,Georgia,Haralson County,$7.25
+1640,Georgia,Harris County,$7.25
+1643,Georgia,Hart County,$7.25
+1646,Georgia,Heard County,$7.25
+1649,Georgia,Henry County,$7.25
+1652,Georgia,Houston County,$7.25
+1655,Georgia,Irwin County,$7.25
+1658,Georgia,Jackson County,$7.25
+1661,Georgia,Jasper County,$7.25
+1664,Georgia,Jeff Davis County,$7.25
+1667,Georgia,Jefferson County,$7.25
+1670,Georgia,Jenkins County,$7.25
+1673,Georgia,Johnson County,$7.25
+1676,Georgia,Jones County,$7.25
+1679,Georgia,Lamar County,$7.25
+1682,Georgia,Lanier County,$7.25
+1685,Georgia,Laurens County,$7.25
+1688,Georgia,Lee County,$7.25
+1691,Georgia,Liberty County,$7.25
+1694,Georgia,Lincoln County,$7.25
+1697,Georgia,Long County,$7.25
+1700,Georgia,Lowndes County,$7.25
+1703,Georgia,Lumpkin County,$7.25
+1706,Georgia,Macon County,$7.25
+1709,Georgia,Madison County,$7.25
+1712,Georgia,Marion County,$7.25
+1715,Georgia,McDuffie County,$7.25
+1718,Georgia,McIntosh County,$7.25
+1721,Georgia,Meriwether County,$7.25
+1724,Georgia,Miller County,$7.25
+1727,Georgia,Mitchell County,$7.25
+1730,Georgia,Monroe County,$7.25
+1733,Georgia,Montgomery County,$7.25
+1736,Georgia,Morgan County,$7.25
+1739,Georgia,Murray County,$7.25
+1742,Georgia,Muscogee County,$7.25
+1745,Georgia,Newton County,$7.25
+1748,Georgia,Oconee County,$7.25
+1751,Georgia,Oglethorpe County,$7.25
+1754,Georgia,Paulding County,$7.25
+1757,Georgia,Peach County,$7.25
+1760,Georgia,Pickens County,$7.25
+1763,Georgia,Pierce County,$7.25
+1766,Georgia,Pike County,$7.25
+1769,Georgia,Polk County,$7.25
+1772,Georgia,Pulaski County,$7.25
+1775,Georgia,Putnam County,$7.25
+1778,Georgia,Quitman County,$7.25
+1781,Georgia,Rabun County,$7.25
+1784,Georgia,Randolph County,$7.25
+1787,Georgia,Richmond County,$7.25
+1790,Georgia,Rockdale County,$7.25
+1793,Georgia,Schley County,$7.25
+1796,Georgia,Screven County,$7.25
+1799,Georgia,Seminole County,$7.25
+1802,Georgia,Spalding County,$7.25
+1805,Georgia,Stephens County,$7.25
+1808,Georgia,Stewart County,$7.25
+1811,Georgia,Sumter County,$7.25
+1814,Georgia,Talbot County,$7.25
+1817,Georgia,Taliaferro County,$7.25
+1820,Georgia,Tattnall County,$7.25
+1823,Georgia,Taylor County,$7.25
+1826,Georgia,Telfair County,$7.25
+1829,Georgia,Terrell County,$7.25
+1832,Georgia,Thomas County,$7.25
+1835,Georgia,Tift County,$7.25
+1838,Georgia,Toombs County,$7.25
+1841,Georgia,Towns County,$7.25
+1844,Georgia,Treutlen County,$7.25
+1847,Georgia,Troup County,$7.25
+1850,Georgia,Turner County,$7.25
+1853,Georgia,Twiggs County,$7.25
+1856,Georgia,Union County,$7.25
+1859,Georgia,Upson County,$7.25
+1862,Georgia,Walker County,$7.25
+1865,Georgia,Walton County,$7.25
+1868,Georgia,Ware County,$7.25
+1871,Georgia,Warren County,$7.25
+1874,Georgia,Washington County,$7.25
+1877,Georgia,Wayne County,$7.25
+1880,Georgia,Webster County,$7.25
+1883,Georgia,Wheeler County,$7.25
+1886,Georgia,White County,$7.25
+1889,Georgia,Whitfield County,$7.25
+1892,Georgia,Wilcox County,$7.25
+1895,Georgia,Wilkes County,$7.25
+1898,Georgia,Wilkinson County,$7.25
+1901,Georgia,Worth County,$7.25
+1904,Georgia,"Albany, GA",$7.25
+1907,Georgia,"Athens-Clarke County, GA",$7.25
+1910,Georgia,"Atlanta-Sandy Springs-Roswell, GA",$7.25
+1913,Georgia,"Augusta-Richmond County, GA",$7.25
+1916,Georgia,"Brunswick, GA",$7.25
+1919,Georgia,"Columbus, GA",$7.25
+1922,Georgia,"Dalton, GA",$7.25
+1925,Georgia,"Gainesville, GA",$7.25
+1928,Georgia,"Hinesville, GA",$7.25
+1931,Georgia,"Macon-Bibb County, GA",$7.25
+1934,Georgia,"Rome, GA",$7.25
+1937,Georgia,"Savannah, GA",$7.25
+1940,Georgia,"Valdosta, GA",$7.25
+1943,Georgia,"Warner Robins, GA",$7.25
+1946,Hawaii,Hawaii County,$10.10
+1949,Hawaii,Honolulu County,$10.10
+1952,Hawaii,Kalawao County,$10.10
+1955,Hawaii,Kauai County,$10.10
+1958,Hawaii,Maui County,$10.10
+1961,Hawaii,"Kahului-Wailuku-Lahaina, HI",$10.10
+1964,Hawaii,"Urban Honolulu, HI",$10.10
+1967,Idaho,Ada County,$7.25
+1970,Idaho,Adams County,$7.25
+1973,Idaho,Bannock County,$7.25
+1976,Idaho,Bear Lake County,$7.25
+1979,Idaho,Benewah County,$7.25
+1982,Idaho,Bingham County,$7.25
+1985,Idaho,Blaine County,$7.25
+1988,Idaho,Boise County,$7.25
+1991,Idaho,Bonner County,$7.25
+1994,Idaho,Bonneville County,$7.25
+1997,Idaho,Boundary County,$7.25
+2000,Idaho,Butte County,$7.25
+2003,Idaho,Camas County,$7.25
+2006,Idaho,Canyon County,$7.25
+2009,Idaho,Caribou County,$7.25
+2012,Idaho,Cassia County,$7.25
+2015,Idaho,Clark County,$7.25
+2018,Idaho,Clearwater County,$7.25
+2021,Idaho,Custer County,$7.25
+2024,Idaho,Elmore County,$7.25
+2027,Idaho,Franklin County,$7.25
+2030,Idaho,Fremont County,$7.25
+2033,Idaho,Gem County,$7.25
+2036,Idaho,Gooding County,$7.25
+2039,Idaho,Idaho County,$7.25
+2042,Idaho,Jefferson County,$7.25
+2045,Idaho,Jerome County,$7.25
+2048,Idaho,Kootenai County,$7.25
+2051,Idaho,Latah County,$7.25
+2054,Idaho,Lemhi County,$7.25
+2057,Idaho,Lewis County,$7.25
+2060,Idaho,Lincoln County,$7.25
+2063,Idaho,Madison County,$7.25
+2066,Idaho,Minidoka County,$7.25
+2069,Idaho,Nez Perce County,$7.25
+2072,Idaho,Oneida County,$7.25
+2075,Idaho,Owyhee County,$7.25
+2078,Idaho,Payette County,$7.25
+2081,Idaho,Power County,$7.25
+2084,Idaho,Shoshone County,$7.25
+2087,Idaho,Teton County,$7.25
+2090,Idaho,Twin Falls County,$7.25
+2093,Idaho,Valley County,$7.25
+2096,Idaho,Washington County,$7.25
+2099,Idaho,"Boise City, ID",$7.25
+2102,Idaho,"Coeur d'Alene, ID",$7.25
+2105,Idaho,"Idaho Falls, ID",$7.25
+2108,Idaho,"Lewiston, ID",$7.25
+2111,Idaho,"Pocatello, ID",$7.25
+2114,Idaho,"Twin Falls, ID",$7.25
+2117,Illinois,Adams County,$10.00
+2120,Illinois,Alexander County,$10.00
+2123,Illinois,Bond County,$10.00
+2126,Illinois,Boone County,$10.00
+2129,Illinois,Brown County,$10.00
+2132,Illinois,Bureau County,$10.00
+2135,Illinois,Calhoun County,$10.00
+2138,Illinois,Carroll County,$10.00
+2141,Illinois,Cass County,$10.00
+2144,Illinois,Champaign County,$10.00
+2147,Illinois,Christian County,$10.00
+2150,Illinois,Clark County,$10.00
+2153,Illinois,Clay County,$10.00
+2156,Illinois,Clinton County,$10.00
+2159,Illinois,Coles County,$10.00
+2162,Illinois,Cook County,$10.00
+2165,Illinois,Crawford County,$10.00
+2168,Illinois,Cumberland County,$10.00
+2171,Illinois,DeKalb County,$10.00
+2174,Illinois,De Witt County,$10.00
+2177,Illinois,Douglas County,$10.00
+2180,Illinois,DuPage County,$10.00
+2183,Illinois,Edgar County,$10.00
+2186,Illinois,Edwards County,$10.00
+2189,Illinois,Effingham County,$10.00
+2192,Illinois,Fayette County,$10.00
+2195,Illinois,Ford County,$10.00
+2198,Illinois,Franklin County,$10.00
+2201,Illinois,Fulton County,$10.00
+2204,Illinois,Gallatin County,$10.00
+2207,Illinois,Greene County,$10.00
+2210,Illinois,Grundy County,$10.00
+2213,Illinois,Hamilton County,$10.00
+2216,Illinois,Hancock County,$10.00
+2219,Illinois,Hardin County,$10.00
+2222,Illinois,Henderson County,$10.00
+2225,Illinois,Henry County,$10.00
+2228,Illinois,Iroquois County,$10.00
+2231,Illinois,Jackson County,$10.00
+2234,Illinois,Jasper County,$10.00
+2237,Illinois,Jefferson County,$10.00
+2240,Illinois,Jersey County,$10.00
+2243,Illinois,Jo Daviess County,$10.00
+2246,Illinois,Johnson County,$10.00
+2249,Illinois,Kane County,$10.00
+2252,Illinois,Kankakee County,$10.00
+2255,Illinois,Kendall County,$10.00
+2258,Illinois,Knox County,$10.00
+2261,Illinois,Lake County,$10.00
+2264,Illinois,La Salle County,$10.00
+2267,Illinois,Lawrence County,$10.00
+2270,Illinois,Lee County,$10.00
+2273,Illinois,Livingston County,$10.00
+2276,Illinois,Logan County,$10.00
+2279,Illinois,Macon County,$10.00
+2282,Illinois,Macoupin County,$10.00
+2285,Illinois,Madison County,$10.00
+2288,Illinois,Marion County,$10.00
+2291,Illinois,Marshall County,$10.00
+2294,Illinois,Mason County,$10.00
+2297,Illinois,Massac County,$10.00
+2300,Illinois,McDonough County,$10.00
+2303,Illinois,McHenry County,$10.00
+2306,Illinois,McLean County,$10.00
+2309,Illinois,Menard County,$10.00
+2312,Illinois,Mercer County,$10.00
+2315,Illinois,Monroe County,$10.00
+2318,Illinois,Montgomery County,$10.00
+2321,Illinois,Morgan County,$10.00
+2324,Illinois,Moultrie County,$10.00
+2327,Illinois,Ogle County,$10.00
+2330,Illinois,Peoria County,$10.00
+2333,Illinois,Perry County,$10.00
+2336,Illinois,Piatt County,$10.00
+2339,Illinois,Pike County,$10.00
+2342,Illinois,Pope County,$10.00
+2345,Illinois,Pulaski County,$10.00
+2348,Illinois,Putnam County,$10.00
+2351,Illinois,Randolph County,$10.00
+2354,Illinois,Richland County,$10.00
+2357,Illinois,Rock Island County,$10.00
+2360,Illinois,Saline County,$10.00
+2363,Illinois,Sangamon County,$10.00
+2366,Illinois,Schuyler County,$10.00
+2369,Illinois,Scott County,$10.00
+2372,Illinois,Shelby County,$10.00
+2375,Illinois,Stark County,$10.00
+2378,Illinois,St. Clair County,$10.00
+2381,Illinois,Stephenson County,$10.00
+2384,Illinois,Tazewell County,$10.00
+2387,Illinois,Union County,$10.00
+2390,Illinois,Vermilion County,$10.00
+2393,Illinois,Wabash County,$10.00
+2396,Illinois,Warren County,$10.00
+2399,Illinois,Washington County,$10.00
+2402,Illinois,Wayne County,$10.00
+2405,Illinois,White County,$10.00
+2408,Illinois,Whiteside County,$10.00
+2411,Illinois,Will County,$10.00
+2414,Illinois,Williamson County,$10.00
+2417,Illinois,Winnebago County,$10.00
+2420,Illinois,Woodford County,$10.00
+2423,Illinois,"Bloomington, IL",$10.00
+2426,Illinois,"Carbondale-Marion, IL",$10.00
+2429,Illinois,"Champaign-Urbana, IL",$10.00
+2432,Illinois,"Chicago-Naperville-Elgin, IL",$10.00
+2435,Illinois,"Danville, IL",$10.00
+2438,Illinois,"Decatur, IL",$10.00
+2441,Illinois,"Kankakee, IL",$10.00
+2444,Illinois,"Peoria, IL",$10.00
+2447,Illinois,"Rockford, IL",$10.00
+2450,Illinois,"Springfield, IL",$10.00
+2453,Indiana,Adams County,$7.25
+2456,Indiana,Allen County,$7.25
+2459,Indiana,Bartholomew County,$7.25
+2462,Indiana,Benton County,$7.25
+2465,Indiana,Blackford County,$7.25
+2468,Indiana,Boone County,$7.25
+2471,Indiana,Brown County,$7.25
+2474,Indiana,Carroll County,$7.25
+2477,Indiana,Cass County,$7.25
+2480,Indiana,Clark County,$7.25
+2483,Indiana,Clay County,$7.25
+2486,Indiana,Clinton County,$7.25
+2489,Indiana,Crawford County,$7.25
+2492,Indiana,Daviess County,$7.25
+2495,Indiana,Dearborn County,$7.25
+2498,Indiana,Decatur County,$7.25
+2501,Indiana,DeKalb County,$7.25
+2504,Indiana,Delaware County,$7.25
+2507,Indiana,Dubois County,$7.25
+2510,Indiana,Elkhart County,$7.25
+2513,Indiana,Fayette County,$7.25
+2516,Indiana,Floyd County,$7.25
+2519,Indiana,Fountain County,$7.25
+2522,Indiana,Franklin County,$7.25
+2525,Indiana,Fulton County,$7.25
+2528,Indiana,Gibson County,$7.25
+2531,Indiana,Grant County,$7.25
+2534,Indiana,Greene County,$7.25
+2537,Indiana,Hamilton County,$7.25
+2540,Indiana,Hancock County,$7.25
+2543,Indiana,Harrison County,$7.25
+2546,Indiana,Hendricks County,$7.25
+2549,Indiana,Henry County,$7.25
+2552,Indiana,Howard County,$7.25
+2555,Indiana,Huntington County,$7.25
+2558,Indiana,Jackson County,$7.25
+2561,Indiana,Jasper County,$7.25
+2564,Indiana,Jay County,$7.25
+2567,Indiana,Jefferson County,$7.25
+2570,Indiana,Jennings County,$7.25
+2573,Indiana,Johnson County,$7.25
+2576,Indiana,Knox County,$7.25
+2579,Indiana,Kosciusko County,$7.25
+2582,Indiana,LaGrange County,$7.25
+2585,Indiana,Lake County,$7.25
+2588,Indiana,LaPorte County,$7.25
+2591,Indiana,Lawrence County,$7.25
+2594,Indiana,Madison County,$7.25
+2597,Indiana,Marion County,$7.25
+2600,Indiana,Marshall County,$7.25
+2603,Indiana,Martin County,$7.25
+2606,Indiana,Miami County,$7.25
+2609,Indiana,Monroe County,$7.25
+2612,Indiana,Montgomery County,$7.25
+2615,Indiana,Morgan County,$7.25
+2618,Indiana,Newton County,$7.25
+2621,Indiana,Noble County,$7.25
+2624,Indiana,Ohio County,$7.25
+2627,Indiana,Orange County,$7.25
+2630,Indiana,Owen County,$7.25
+2633,Indiana,Parke County,$7.25
+2636,Indiana,Perry County,$7.25
+2639,Indiana,Pike County,$7.25
+2642,Indiana,Porter County,$7.25
+2645,Indiana,Posey County,$7.25
+2648,Indiana,Pulaski County,$7.25
+2651,Indiana,Putnam County,$7.25
+2654,Indiana,Randolph County,$7.25
+2657,Indiana,Ripley County,$7.25
+2660,Indiana,Rush County,$7.25
+2663,Indiana,Scott County,$7.25
+2666,Indiana,Shelby County,$7.25
+2669,Indiana,Spencer County,$7.25
+2672,Indiana,Starke County,$7.25
+2675,Indiana,Steuben County,$7.25
+2678,Indiana,St. Joseph County,$7.25
+2681,Indiana,Sullivan County,$7.25
+2684,Indiana,Switzerland County,$7.25
+2687,Indiana,Tippecanoe County,$7.25
+2690,Indiana,Tipton County,$7.25
+2693,Indiana,Union County,$7.25
+2696,Indiana,Vanderburgh County,$7.25
+2699,Indiana,Vermillion County,$7.25
+2702,Indiana,Vigo County,$7.25
+2705,Indiana,Wabash County,$7.25
+2708,Indiana,Warren County,$7.25
+2711,Indiana,Warrick County,$7.25
+2714,Indiana,Washington County,$7.25
+2717,Indiana,Wayne County,$7.25
+2720,Indiana,Wells County,$7.25
+2723,Indiana,White County,$7.25
+2726,Indiana,Whitley County,$7.25
+2729,Indiana,"Bloomington, IN",$7.25
+2732,Indiana,"Columbus, IN",$7.25
+2735,Indiana,"Elkhart-Goshen, IN",$7.25
+2738,Indiana,"Evansville, IN",$7.25
+2741,Indiana,"Fort Wayne, IN",$7.25
+2744,Indiana,"Indianapolis-Carmel-Anderson, IN",$7.25
+2747,Indiana,"Kokomo, IN",$7.25
+2750,Indiana,"Lafayette-West Lafayette, IN",$7.25
+2753,Indiana,"Michigan City-La Porte, IN",$7.25
+2756,Indiana,"Muncie, IN",$7.25
+2759,Indiana,"South Bend-Mishawaka, IN",$7.25
+2762,Indiana,"Terre Haute, IN",$7.25
+2765,Iowa,Adair County,$7.25
+2768,Iowa,Adams County,$7.25
+2771,Iowa,Allamakee County,$7.25
+2774,Iowa,Appanoose County,$7.25
+2777,Iowa,Audubon County,$7.25
+2780,Iowa,Benton County,$7.25
+2783,Iowa,Black Hawk County,$7.25
+2786,Iowa,Boone County,$7.25
+2789,Iowa,Bremer County,$7.25
+2792,Iowa,Buchanan County,$7.25
+2795,Iowa,Buena Vista County,$7.25
+2798,Iowa,Butler County,$7.25
+2801,Iowa,Calhoun County,$7.25
+2804,Iowa,Carroll County,$7.25
+2807,Iowa,Cass County,$7.25
+2810,Iowa,Cedar County,$7.25
+2813,Iowa,Cerro Gordo County,$7.25
+2816,Iowa,Cherokee County,$7.25
+2819,Iowa,Chickasaw County,$7.25
+2822,Iowa,Clarke County,$7.25
+2825,Iowa,Clay County,$7.25
+2828,Iowa,Clayton County,$7.25
+2831,Iowa,Clinton County,$7.25
+2834,Iowa,Crawford County,$7.25
+2837,Iowa,Dallas County,$7.25
+2840,Iowa,Davis County,$7.25
+2843,Iowa,Decatur County,$7.25
+2846,Iowa,Delaware County,$7.25
+2849,Iowa,Des Moines County,$7.25
+2852,Iowa,Dickinson County,$7.25
+2855,Iowa,Dubuque County,$7.25
+2858,Iowa,Emmet County,$7.25
+2861,Iowa,Fayette County,$7.25
+2864,Iowa,Floyd County,$7.25
+2867,Iowa,Franklin County,$7.25
+2870,Iowa,Fremont County,$7.25
+2873,Iowa,Greene County,$7.25
+2876,Iowa,Grundy County,$7.25
+2879,Iowa,Guthrie County,$7.25
+2882,Iowa,Hamilton County,$7.25
+2885,Iowa,Hancock County,$7.25
+2888,Iowa,Hardin County,$7.25
+2891,Iowa,Harrison County,$7.25
+2894,Iowa,Henry County,$7.25
+2897,Iowa,Howard County,$7.25
+2900,Iowa,Humboldt County,$7.25
+2903,Iowa,Ida County,$7.25
+2906,Iowa,Iowa County,$7.25
+2909,Iowa,Jackson County,$7.25
+2912,Iowa,Jasper County,$7.25
+2915,Iowa,Jefferson County,$7.25
+2918,Iowa,Johnson County,$7.25
+2921,Iowa,Jones County,$7.25
+2924,Iowa,Keokuk County,$7.25
+2927,Iowa,Kossuth County,$7.25
+2930,Iowa,Lee County,$7.25
+2933,Iowa,Linn County,$7.25
+2936,Iowa,Louisa County,$7.25
+2939,Iowa,Lucas County,$7.25
+2942,Iowa,Lyon County,$7.25
+2945,Iowa,Madison County,$7.25
+2948,Iowa,Mahaska County,$7.25
+2951,Iowa,Marion County,$7.25
+2954,Iowa,Marshall County,$7.25
+2957,Iowa,Mills County,$7.25
+2960,Iowa,Mitchell County,$7.25
+2963,Iowa,Monona County,$7.25
+2966,Iowa,Monroe County,$7.25
+2969,Iowa,Montgomery County,$7.25
+2972,Iowa,Muscatine County,$7.25
+2975,Iowa,O'Brien County,$7.25
+2978,Iowa,Osceola County,$7.25
+2981,Iowa,Page County,$7.25
+2984,Iowa,Palo Alto County,$7.25
+2987,Iowa,Plymouth County,$7.25
+2990,Iowa,Pocahontas County,$7.25
+2993,Iowa,Polk County,$7.25
+2996,Iowa,Pottawattamie County,$7.25
+2999,Iowa,Poweshiek County,$7.25
+3002,Iowa,Ringgold County,$7.25
+3005,Iowa,Sac County,$7.25
+3008,Iowa,Scott County,$7.25
+3011,Iowa,Shelby County,$7.25
+3014,Iowa,Sioux County,$7.25
+3017,Iowa,Story County,$7.25
+3020,Iowa,Tama County,$7.25
+3023,Iowa,Taylor County,$7.25
+3026,Iowa,Union County,$7.25
+3029,Iowa,Van Buren County,$7.25
+3032,Iowa,Wapello County,$7.25
+3035,Iowa,Warren County,$7.25
+3038,Iowa,Washington County,$7.25
+3041,Iowa,Wayne County,$7.25
+3044,Iowa,Webster County,$7.25
+3047,Iowa,Winnebago County,$7.25
+3050,Iowa,Winneshiek County,$7.25
+3053,Iowa,Woodbury County,$7.25
+3056,Iowa,Worth County,$7.25
+3059,Iowa,Wright County,$7.25
+3062,Iowa,"Ames, IA",$7.25
+3065,Iowa,"Cedar Rapids, IA",$7.25
+3068,Iowa,"Davenport-Moline-Rock Island, IA",$7.25
+3071,Iowa,"Des Moines-West Des Moines, IA",$7.25
+3074,Iowa,"Dubuque, IA",$7.25
+3077,Iowa,"Iowa City, IA",$7.25
+3080,Iowa,"Sioux City, IA",$7.25
+3083,Iowa,"Waterloo-Cedar Falls, IA",$7.25
+3086,Kansas,Allen County,$7.25
+3089,Kansas,Anderson County,$7.25
+3092,Kansas,Atchison County,$7.25
+3095,Kansas,Barber County,$7.25
+3098,Kansas,Barton County,$7.25
+3101,Kansas,Bourbon County,$7.25
+3104,Kansas,Brown County,$7.25
+3107,Kansas,Butler County,$7.25
+3110,Kansas,Chase County,$7.25
+3113,Kansas,Chautauqua County,$7.25
+3116,Kansas,Cherokee County,$7.25
+3119,Kansas,Cheyenne County,$7.25
+3122,Kansas,Clark County,$7.25
+3125,Kansas,Clay County,$7.25
+3128,Kansas,Cloud County,$7.25
+3131,Kansas,Coffey County,$7.25
+3134,Kansas,Comanche County,$7.25
+3137,Kansas,Cowley County,$7.25
+3140,Kansas,Crawford County,$7.25
+3143,Kansas,Decatur County,$7.25
+3146,Kansas,Dickinson County,$7.25
+3149,Kansas,Doniphan County,$7.25
+3152,Kansas,Douglas County,$7.25
+3155,Kansas,Edwards County,$7.25
+3158,Kansas,Elk County,$7.25
+3161,Kansas,Ellis County,$7.25
+3164,Kansas,Ellsworth County,$7.25
+3167,Kansas,Finney County,$7.25
+3170,Kansas,Ford County,$7.25
+3173,Kansas,Franklin County,$7.25
+3176,Kansas,Geary County,$7.25
+3179,Kansas,Gove County,$7.25
+3182,Kansas,Graham County,$7.25
+3185,Kansas,Grant County,$7.25
+3188,Kansas,Gray County,$7.25
+3191,Kansas,Greeley County,$7.25
+3194,Kansas,Greenwood County,$7.25
+3197,Kansas,Hamilton County,$7.25
+3200,Kansas,Harper County,$7.25
+3203,Kansas,Harvey County,$7.25
+3206,Kansas,Haskell County,$7.25
+3209,Kansas,Hodgeman County,$7.25
+3212,Kansas,Jackson County,$7.25
+3215,Kansas,Jefferson County,$7.25
+3218,Kansas,Jewell County,$7.25
+3221,Kansas,Johnson County,$7.25
+3224,Kansas,Kearny County,$7.25
+3227,Kansas,Kingman County,$7.25
+3230,Kansas,Kiowa County,$7.25
+3233,Kansas,Labette County,$7.25
+3236,Kansas,Lane County,$7.25
+3239,Kansas,Leavenworth County,$7.25
+3242,Kansas,Lincoln County,$7.25
+3245,Kansas,Linn County,$7.25
+3248,Kansas,Logan County,$7.25
+3251,Kansas,Lyon County,$7.25
+3254,Kansas,Marion County,$7.25
+3257,Kansas,Marshall County,$7.25
+3260,Kansas,McPherson County,$7.25
+3263,Kansas,Meade County,$7.25
+3266,Kansas,Miami County,$7.25
+3269,Kansas,Mitchell County,$7.25
+3272,Kansas,Montgomery County,$7.25
+3275,Kansas,Morris County,$7.25
+3278,Kansas,Morton County,$7.25
+3281,Kansas,Nemaha County,$7.25
+3284,Kansas,Neosho County,$7.25
+3287,Kansas,Ness County,$7.25
+3290,Kansas,Norton County,$7.25
+3293,Kansas,Osage County,$7.25
+3296,Kansas,Osborne County,$7.25
+3299,Kansas,Ottawa County,$7.25
+3302,Kansas,Pawnee County,$7.25
+3305,Kansas,Phillips County,$7.25
+3308,Kansas,Pottawatomie County,$7.25
+3311,Kansas,Pratt County,$7.25
+3314,Kansas,Rawlins County,$7.25
+3317,Kansas,Reno County,$7.25
+3320,Kansas,Republic County,$7.25
+3323,Kansas,Rice County,$7.25
+3326,Kansas,Riley County,$7.25
+3329,Kansas,Rooks County,$7.25
+3332,Kansas,Rush County,$7.25
+3335,Kansas,Russell County,$7.25
+3338,Kansas,Saline County,$7.25
+3341,Kansas,Scott County,$7.25
+3344,Kansas,Sedgwick County,$7.25
+3347,Kansas,Seward County,$7.25
+3350,Kansas,Shawnee County,$7.25
+3353,Kansas,Sheridan County,$7.25
+3356,Kansas,Sherman County,$7.25
+3359,Kansas,Smith County,$7.25
+3362,Kansas,Stafford County,$7.25
+3365,Kansas,Stanton County,$7.25
+3368,Kansas,Stevens County,$7.25
+3371,Kansas,Sumner County,$7.25
+3374,Kansas,Thomas County,$7.25
+3377,Kansas,Trego County,$7.25
+3380,Kansas,Wabaunsee County,$7.25
+3383,Kansas,Wallace County,$7.25
+3386,Kansas,Washington County,$7.25
+3389,Kansas,Wichita County,$7.25
+3392,Kansas,Wilson County,$7.25
+3395,Kansas,Woodson County,$7.25
+3398,Kansas,Wyandotte County,$7.25
+3401,Kansas,"Lawrence, KS",$7.25
+3404,Kansas,"Manhattan, KS",$7.25
+3407,Kansas,"Topeka, KS",$7.25
+3410,Kansas,"Wichita, KS",$7.25
+3413,Kentucky,Adair County,$7.25
+3416,Kentucky,Allen County,$7.25
+3419,Kentucky,Anderson County,$7.25
+3422,Kentucky,Ballard County,$7.25
+3425,Kentucky,Barren County,$7.25
+3428,Kentucky,Bath County,$7.25
+3431,Kentucky,Bell County,$7.25
+3434,Kentucky,Boone County,$7.25
+3437,Kentucky,Bourbon County,$7.25
+3440,Kentucky,Boyd County,$7.25
+3443,Kentucky,Boyle County,$7.25
+3446,Kentucky,Bracken County,$7.25
+3449,Kentucky,Breathitt County,$7.25
+3452,Kentucky,Breckinridge County,$7.25
+3455,Kentucky,Bullitt County,$7.25
+3458,Kentucky,Butler County,$7.25
+3461,Kentucky,Caldwell County,$7.25
+3464,Kentucky,Calloway County,$7.25
+3467,Kentucky,Campbell County,$7.25
+3470,Kentucky,Carlisle County,$7.25
+3473,Kentucky,Carroll County,$7.25
+3476,Kentucky,Carter County,$7.25
+3479,Kentucky,Casey County,$7.25
+3482,Kentucky,Christian County,$7.25
+3485,Kentucky,Clark County,$7.25
+3488,Kentucky,Clay County,$7.25
+3491,Kentucky,Clinton County,$7.25
+3494,Kentucky,Crittenden County,$7.25
+3497,Kentucky,Cumberland County,$7.25
+3500,Kentucky,Daviess County,$7.25
+3503,Kentucky,Edmonson County,$7.25
+3506,Kentucky,Elliott County,$7.25
+3509,Kentucky,Estill County,$7.25
+3512,Kentucky,Fayette County,$7.25
+3515,Kentucky,Fleming County,$7.25
+3518,Kentucky,Floyd County,$7.25
+3521,Kentucky,Franklin County,$7.25
+3524,Kentucky,Fulton County,$7.25
+3527,Kentucky,Gallatin County,$7.25
+3530,Kentucky,Garrard County,$7.25
+3533,Kentucky,Grant County,$7.25
+3536,Kentucky,Graves County,$7.25
+3539,Kentucky,Grayson County,$7.25
+3542,Kentucky,Green County,$7.25
+3545,Kentucky,Greenup County,$7.25
+3548,Kentucky,Hancock County,$7.25
+3551,Kentucky,Hardin County,$7.25
+3554,Kentucky,Harlan County,$7.25
+3557,Kentucky,Harrison County,$7.25
+3560,Kentucky,Hart County,$7.25
+3563,Kentucky,Henderson County,$7.25
+3566,Kentucky,Henry County,$7.25
+3569,Kentucky,Hickman County,$7.25
+3572,Kentucky,Hopkins County,$7.25
+3575,Kentucky,Jackson County,$7.25
+3578,Kentucky,Jefferson County,$7.25
+3581,Kentucky,Jessamine County,$7.25
+3584,Kentucky,Johnson County,$7.25
+3587,Kentucky,Kenton County,$7.25
+3590,Kentucky,Knott County,$7.25
+3593,Kentucky,Knox County,$7.25
+3596,Kentucky,Larue County,$7.25
+3599,Kentucky,Laurel County,$7.25
+3602,Kentucky,Lawrence County,$7.25
+3605,Kentucky,Lee County,$7.25
+3608,Kentucky,Leslie County,$7.25
+3611,Kentucky,Letcher County,$7.25
+3614,Kentucky,Lewis County,$7.25
+3617,Kentucky,Lincoln County,$7.25
+3620,Kentucky,Livingston County,$7.25
+3623,Kentucky,Logan County,$7.25
+3626,Kentucky,Lyon County,$7.25
+3629,Kentucky,Madison County,$7.25
+3632,Kentucky,Magoffin County,$7.25
+3635,Kentucky,Marion County,$7.25
+3638,Kentucky,Marshall County,$7.25
+3641,Kentucky,Martin County,$7.25
+3644,Kentucky,Mason County,$7.25
+3647,Kentucky,McCracken County,$7.25
+3650,Kentucky,McCreary County,$7.25
+3653,Kentucky,McLean County,$7.25
+3656,Kentucky,Meade County,$7.25
+3659,Kentucky,Menifee County,$7.25
+3662,Kentucky,Mercer County,$7.25
+3665,Kentucky,Metcalfe County,$7.25
+3668,Kentucky,Monroe County,$7.25
+3671,Kentucky,Montgomery County,$7.25
+3674,Kentucky,Morgan County,$7.25
+3677,Kentucky,Muhlenberg County,$7.25
+3680,Kentucky,Nelson County,$7.25
+3683,Kentucky,Nicholas County,$7.25
+3686,Kentucky,Ohio County,$7.25
+3689,Kentucky,Oldham County,$7.25
+3692,Kentucky,Owen County,$7.25
+3695,Kentucky,Owsley County,$7.25
+3698,Kentucky,Pendleton County,$7.25
+3701,Kentucky,Perry County,$7.25
+3704,Kentucky,Pike County,$7.25
+3707,Kentucky,Powell County,$7.25
+3710,Kentucky,Pulaski County,$7.25
+3713,Kentucky,Robertson County,$7.25
+3716,Kentucky,Rockcastle County,$7.25
+3719,Kentucky,Rowan County,$7.25
+3722,Kentucky,Russell County,$7.25
+3725,Kentucky,Scott County,$7.25
+3728,Kentucky,Shelby County,$7.25
+3731,Kentucky,Simpson County,$7.25
+3734,Kentucky,Spencer County,$7.25
+3737,Kentucky,Taylor County,$7.25
+3740,Kentucky,Todd County,$7.25
+3743,Kentucky,Trigg County,$7.25
+3746,Kentucky,Trimble County,$7.25
+3749,Kentucky,Union County,$7.25
+3752,Kentucky,Warren County,$7.25
+3755,Kentucky,Washington County,$7.25
+3758,Kentucky,Wayne County,$7.25
+3761,Kentucky,Webster County,$7.25
+3764,Kentucky,Whitley County,$7.25
+3767,Kentucky,Wolfe County,$7.25
+3770,Kentucky,Woodford County,$7.25
+3773,Kentucky,"Bowling Green, KY",$7.25
+3776,Kentucky,"Elizabethtown-Fort Knox, KY",$7.25
+3779,Kentucky,"Lexington-Fayette, KY",$7.25
+3782,Kentucky,"Louisville/Jefferson County, KY",$7.25
+3785,Kentucky,"Owensboro, KY",$7.25
+3788,Louisiana,Acadia Parish,$7.25
+3791,Louisiana,Allen Parish,$7.25
+3794,Louisiana,Ascension Parish,$7.25
+3797,Louisiana,Assumption Parish,$7.25
+3800,Louisiana,Avoyelles Parish,$7.25
+3803,Louisiana,Beauregard Parish,$7.25
+3806,Louisiana,Bienville Parish,$7.25
+3809,Louisiana,Bossier Parish,$7.25
+3812,Louisiana,Caddo Parish,$7.25
+3815,Louisiana,Calcasieu Parish,$7.25
+3818,Louisiana,Caldwell Parish,$7.25
+3821,Louisiana,Cameron Parish,$7.25
+3824,Louisiana,Catahoula Parish,$7.25
+3827,Louisiana,Claiborne Parish,$7.25
+3830,Louisiana,Concordia Parish,$7.25
+3833,Louisiana,De Soto Parish,$7.25
+3836,Louisiana,East Baton Rouge Parish,$7.25
+3839,Louisiana,East Carroll Parish,$7.25
+3842,Louisiana,East Feliciana Parish,$7.25
+3845,Louisiana,Evangeline Parish,$7.25
+3848,Louisiana,Franklin Parish,$7.25
+3851,Louisiana,Grant Parish,$7.25
+3854,Louisiana,Iberia Parish,$7.25
+3857,Louisiana,Iberville Parish,$7.25
+3860,Louisiana,Jackson Parish,$7.25
+3863,Louisiana,Jefferson Davis Parish,$7.25
+3866,Louisiana,Jefferson Parish,$7.25
+3869,Louisiana,Lafayette Parish,$7.25
+3872,Louisiana,Lafourche Parish,$7.25
+3875,Louisiana,La Salle Parish,$7.25
+3878,Louisiana,Lincoln Parish,$7.25
+3881,Louisiana,Livingston Parish,$7.25
+3884,Louisiana,Madison Parish,$7.25
+3887,Louisiana,Morehouse Parish,$7.25
+3890,Louisiana,Natchitoches Parish,$7.25
+3893,Louisiana,Orleans Parish,$7.25
+3896,Louisiana,Ouachita Parish,$7.25
+3899,Louisiana,Plaquemines Parish,$7.25
+3902,Louisiana,Pointe Coupee Parish,$7.25
+3905,Louisiana,Rapides Parish,$7.25
+3908,Louisiana,Red River Parish,$7.25
+3911,Louisiana,Richland Parish,$7.25
+3914,Louisiana,Sabine Parish,$7.25
+3917,Louisiana,St. Bernard Parish,$7.25
+3920,Louisiana,St. Charles Parish,$7.25
+3923,Louisiana,St. Helena Parish,$7.25
+3926,Louisiana,St. James Parish,$7.25
+3929,Louisiana,St. John the Baptist Parish,$7.25
+3932,Louisiana,St. Landry Parish,$7.25
+3935,Louisiana,St. Martin Parish,$7.25
+3938,Louisiana,St. Mary Parish,$7.25
+3941,Louisiana,St. Tammany Parish,$7.25
+3944,Louisiana,Tangipahoa Parish,$7.25
+3947,Louisiana,Tensas Parish,$7.25
+3950,Louisiana,Terrebonne Parish,$7.25
+3953,Louisiana,Union Parish,$7.25
+3956,Louisiana,Vermilion Parish,$7.25
+3959,Louisiana,Vernon Parish,$7.25
+3962,Louisiana,Washington Parish,$7.25
+3965,Louisiana,Webster Parish,$7.25
+3968,Louisiana,West Baton Rouge Parish,$7.25
+3971,Louisiana,West Carroll Parish,$7.25
+3974,Louisiana,West Feliciana Parish,$7.25
+3977,Louisiana,Winn Parish,$7.25
+3980,Louisiana,"Alexandria, LA",$7.25
+3983,Louisiana,"Baton Rouge, LA",$7.25
+3986,Louisiana,"Hammond, LA",$7.25
+3989,Louisiana,"Houma-Thibodaux, LA",$7.25
+3992,Louisiana,"Lafayette, LA",$7.25
+3995,Louisiana,"Lake Charles, LA",$7.25
+3998,Louisiana,"Monroe, LA",$7.25
+4001,Louisiana,"New Orleans-Metairie, LA",$7.25
+4004,Louisiana,"Shreveport-Bossier City, LA",$7.25
+4007,Maine,Androscoggin County,$12.00
+4010,Maine,Aroostook County,$12.00
+4013,Maine,Cumberland County,$12.00
+4016,Maine,Franklin County,$12.00
+4019,Maine,Hancock County,$12.00
+4022,Maine,Kennebec County,$12.00
+4025,Maine,Knox County,$12.00
+4028,Maine,Lincoln County,$12.00
+4031,Maine,Oxford County,$12.00
+4034,Maine,Penobscot County,$12.00
+4037,Maine,Piscataquis County,$12.00
+4040,Maine,Sagadahoc County,$12.00
+4043,Maine,Somerset County,$12.00
+4046,Maine,Waldo County,$12.00
+4049,Maine,Washington County,$12.00
+4052,Maine,York County,$12.00
+4055,Maine,"Bangor, ME",$12.00
+4058,Maine,"Lewiston-Auburn, ME",$12.00
+4061,Maine,"Portland-South Portland, ME",$12.00
+4064,Maryland,Allegany County,$11.00
+4067,Maryland,Anne Arundel County,$11.00
+4070,Maryland,Baltimore city,$11.00
+4073,Maryland,Baltimore County,$11.00
+4076,Maryland,Calvert County,$11.00
+4079,Maryland,Caroline County,$11.00
+4082,Maryland,Carroll County,$11.00
+4085,Maryland,Cecil County,$11.00
+4088,Maryland,Charles County,$11.00
+4091,Maryland,Dorchester County,$11.00
+4094,Maryland,Frederick County,$11.00
+4097,Maryland,Garrett County,$11.00
+4100,Maryland,Harford County,$11.00
+4103,Maryland,Howard County,$11.00
+4106,Maryland,Kent County,$11.00
+4109,Maryland,Montgomery County,$11.00
+4112,Maryland,Prince George's County,$11.00
+4115,Maryland,Queen Anne's County,$11.00
+4118,Maryland,Somerset County,$11.00
+4121,Maryland,St. Mary's County,$11.00
+4124,Maryland,Talbot County,$11.00
+4127,Maryland,Washington County,$11.00
+4130,Maryland,Wicomico County,$11.00
+4133,Maryland,Worcester County,$11.00
+4136,Maryland,"Baltimore-Columbia-Towson, MD",$11.00
+4139,Maryland,"California-Lexington Park, MD",$11.00
+4142,Maryland,"Cumberland, MD",$11.00
+4145,Maryland,"Hagerstown-Martinsburg, MD",$11.00
+4148,Maryland,"Salisbury, MD",$11.00
+4151,Massachusetts,Barnstable County,$12.75
+4154,Massachusetts,Berkshire County,$12.75
+4157,Massachusetts,Bristol County,$12.75
+4160,Massachusetts,Dukes County,$12.75
+4163,Massachusetts,Essex County,$12.75
+4166,Massachusetts,Franklin County,$12.75
+4169,Massachusetts,Hampden County,$12.75
+4172,Massachusetts,Hampshire County,$12.75
+4175,Massachusetts,Middlesex County,$12.75
+4178,Massachusetts,Nantucket County,$12.75
+4181,Massachusetts,Norfolk County,$12.75
+4184,Massachusetts,Plymouth County,$12.75
+4187,Massachusetts,Suffolk County,$12.75
+4190,Massachusetts,Worcester County,$12.75
+4193,Massachusetts,"Barnstable Town, MA",$12.75
+4196,Massachusetts,"Boston-Cambridge-Newton, MA",$12.75
+4199,Massachusetts,"Pittsfield, MA",$12.75
+4202,Massachusetts,"Springfield, MA",$12.75
+4205,Massachusetts,"Worcester, MA",$12.75
+4208,Michigan,Alcona County,$9.65
+4211,Michigan,Alger County,$9.65
+4214,Michigan,Allegan County,$9.65
+4217,Michigan,Alpena County,$9.65
+4220,Michigan,Antrim County,$9.65
+4223,Michigan,Arenac County,$9.65
+4226,Michigan,Baraga County,$9.65
+4229,Michigan,Barry County,$9.65
+4232,Michigan,Bay County,$9.65
+4235,Michigan,Benzie County,$9.65
+4238,Michigan,Berrien County,$9.65
+4241,Michigan,Branch County,$9.65
+4244,Michigan,Calhoun County,$9.65
+4247,Michigan,Cass County,$9.65
+4250,Michigan,Charlevoix County,$9.65
+4253,Michigan,Cheboygan County,$9.65
+4256,Michigan,Chippewa County,$9.65
+4259,Michigan,Clare County,$9.65
+4262,Michigan,Clinton County,$9.65
+4265,Michigan,Crawford County,$9.65
+4268,Michigan,Delta County,$9.65
+4271,Michigan,Dickinson County,$9.65
+4274,Michigan,Eaton County,$9.65
+4277,Michigan,Emmet County,$9.65
+4280,Michigan,Genesee County,$9.65
+4283,Michigan,Gladwin County,$9.65
+4286,Michigan,Gogebic County,$9.65
+4289,Michigan,Grand Traverse County,$9.65
+4292,Michigan,Gratiot County,$9.65
+4295,Michigan,Hillsdale County,$9.65
+4298,Michigan,Houghton County,$9.65
+4301,Michigan,Huron County,$9.65
+4304,Michigan,Ingham County,$9.65
+4307,Michigan,Ionia County,$9.65
+4310,Michigan,Iosco County,$9.65
+4313,Michigan,Iron County,$9.65
+4316,Michigan,Isabella County,$9.65
+4319,Michigan,Jackson County,$9.65
+4322,Michigan,Kalamazoo County,$9.65
+4325,Michigan,Kalkaska County,$9.65
+4328,Michigan,Kent County,$9.65
+4331,Michigan,Keweenaw County,$9.65
+4334,Michigan,Lake County,$9.65
+4337,Michigan,Lapeer County,$9.65
+4340,Michigan,Leelanau County,$9.65
+4343,Michigan,Lenawee County,$9.65
+4346,Michigan,Livingston County,$9.65
+4349,Michigan,Luce County,$9.65
+4352,Michigan,Mackinac County,$9.65
+4355,Michigan,Macomb County,$9.65
+4358,Michigan,Manistee County,$9.65
+4361,Michigan,Marquette County,$9.65
+4364,Michigan,Mason County,$9.65
+4367,Michigan,Mecosta County,$9.65
+4370,Michigan,Menominee County,$9.65
+4373,Michigan,Midland County,$9.65
+4376,Michigan,Missaukee County,$9.65
+4379,Michigan,Monroe County,$9.65
+4382,Michigan,Montcalm County,$9.65
+4385,Michigan,Montmorency County,$9.65
+4388,Michigan,Muskegon County,$9.65
+4391,Michigan,Newaygo County,$9.65
+4394,Michigan,Oakland County,$9.65
+4397,Michigan,Oceana County,$9.65
+4400,Michigan,Ogemaw County,$9.65
+4403,Michigan,Ontonagon County,$9.65
+4406,Michigan,Osceola County,$9.65
+4409,Michigan,Oscoda County,$9.65
+4412,Michigan,Otsego County,$9.65
+4415,Michigan,Ottawa County,$9.65
+4418,Michigan,Presque Isle County,$9.65
+4421,Michigan,Roscommon County,$9.65
+4424,Michigan,Saginaw County,$9.65
+4427,Michigan,Sanilac County,$9.65
+4430,Michigan,Schoolcraft County,$9.65
+4433,Michigan,Shiawassee County,$9.65
+4436,Michigan,St. Clair County,$9.65
+4439,Michigan,St. Joseph County,$9.65
+4442,Michigan,Tuscola County,$9.65
+4445,Michigan,Van Buren County,$9.65
+4448,Michigan,Washtenaw County,$9.65
+4451,Michigan,Wayne County,$9.65
+4454,Michigan,Wexford County,$9.65
+4457,Michigan,"Ann Arbor, MI",$9.65
+4460,Michigan,"Battle Creek, MI",$9.65
+4463,Michigan,"Bay City, MI",$9.65
+4466,Michigan,"Detroit-Warren-Dearborn, MI",$9.65
+4469,Michigan,"Flint, MI",$9.65
+4472,Michigan,"Grand Rapids-Wyoming, MI",$9.65
+4475,Michigan,"Jackson, MI",$9.65
+4478,Michigan,"Kalamazoo-Portage, MI",$9.65
+4481,Michigan,"Lansing-East Lansing, MI",$9.65
+4484,Michigan,"Midland, MI",$9.65
+4487,Michigan,"Monroe, MI",$9.65
+4490,Michigan,"Muskegon, MI",$9.65
+4493,Michigan,"Niles-Benton Harbor, MI",$9.65
+4496,Michigan,"Saginaw, MI",$9.65
+4499,Minnesota,Aitkin County,$10.00
+4502,Minnesota,Anoka County,$10.00
+4505,Minnesota,Becker County,$10.00
+4508,Minnesota,Beltrami County,$10.00
+4511,Minnesota,Benton County,$10.00
+4514,Minnesota,Big Stone County,$10.00
+4517,Minnesota,Blue Earth County,$10.00
+4520,Minnesota,Brown County,$10.00
+4523,Minnesota,Carlton County,$10.00
+4526,Minnesota,Carver County,$10.00
+4529,Minnesota,Cass County,$10.00
+4532,Minnesota,Chippewa County,$10.00
+4535,Minnesota,Chisago County,$10.00
+4538,Minnesota,Clay County,$10.00
+4541,Minnesota,Clearwater County,$10.00
+4544,Minnesota,Cook County,$10.00
+4547,Minnesota,Cottonwood County,$10.00
+4550,Minnesota,Crow Wing County,$10.00
+4553,Minnesota,Dakota County,$10.00
+4556,Minnesota,Dodge County,$10.00
+4559,Minnesota,Douglas County,$10.00
+4562,Minnesota,Faribault County,$10.00
+4565,Minnesota,Fillmore County,$10.00
+4568,Minnesota,Freeborn County,$10.00
+4571,Minnesota,Goodhue County,$10.00
+4574,Minnesota,Grant County,$10.00
+4577,Minnesota,Hennepin County,$10.00
+4580,Minnesota,Houston County,$10.00
+4583,Minnesota,Hubbard County,$10.00
+4586,Minnesota,Isanti County,$10.00
+4589,Minnesota,Itasca County,$10.00
+4592,Minnesota,Jackson County,$10.00
+4595,Minnesota,Kanabec County,$10.00
+4598,Minnesota,Kandiyohi County,$10.00
+4601,Minnesota,Kittson County,$10.00
+4604,Minnesota,Koochiching County,$10.00
+4607,Minnesota,Lac qui Parle County,$10.00
+4610,Minnesota,Lake County,$10.00
+4613,Minnesota,Lake of the Woods County,$10.00
+4616,Minnesota,Le Sueur County,$10.00
+4619,Minnesota,Lincoln County,$10.00
+4622,Minnesota,Lyon County,$10.00
+4625,Minnesota,Mahnomen County,$10.00
+4628,Minnesota,Marshall County,$10.00
+4631,Minnesota,Martin County,$10.00
+4634,Minnesota,McLeod County,$10.00
+4637,Minnesota,Meeker County,$10.00
+4640,Minnesota,Mille Lacs County,$10.00
+4643,Minnesota,Morrison County,$10.00
+4646,Minnesota,Mower County,$10.00
+4649,Minnesota,Murray County,$10.00
+4652,Minnesota,Nicollet County,$10.00
+4655,Minnesota,Nobles County,$10.00
+4658,Minnesota,Norman County,$10.00
+4661,Minnesota,Olmsted County,$10.00
+4664,Minnesota,Otter Tail County,$10.00
+4667,Minnesota,Pennington County,$10.00
+4670,Minnesota,Pine County,$10.00
+4673,Minnesota,Pipestone County,$10.00
+4676,Minnesota,Polk County,$10.00
+4679,Minnesota,Pope County,$10.00
+4682,Minnesota,Ramsey County,$10.00
+4685,Minnesota,Red Lake County,$10.00
+4688,Minnesota,Redwood County,$10.00
+4691,Minnesota,Renville County,$10.00
+4694,Minnesota,Rice County,$10.00
+4697,Minnesota,Rock County,$10.00
+4700,Minnesota,Roseau County,$10.00
+4703,Minnesota,Scott County,$10.00
+4706,Minnesota,Sherburne County,$10.00
+4709,Minnesota,Sibley County,$10.00
+4712,Minnesota,Stearns County,$10.00
+4715,Minnesota,Steele County,$10.00
+4718,Minnesota,Stevens County,$10.00
+4721,Minnesota,St. Louis County,$10.00
+4724,Minnesota,Swift County,$10.00
+4727,Minnesota,Todd County,$10.00
+4730,Minnesota,Traverse County,$10.00
+4733,Minnesota,Wabasha County,$10.00
+4736,Minnesota,Wadena County,$10.00
+4739,Minnesota,Waseca County,$10.00
+4742,Minnesota,Washington County,$10.00
+4745,Minnesota,Watonwan County,$10.00
+4748,Minnesota,Wilkin County,$10.00
+4751,Minnesota,Winona County,$10.00
+4754,Minnesota,Wright County,$10.00
+4757,Minnesota,Yellow Medicine County,$10.00
+4760,Minnesota,"Duluth, MN",$10.00
+4763,Minnesota,"Mankato-North Mankato, MN",$10.00
+4766,Minnesota,"Minneapolis-St. Paul-Bloomington, MN",$10.00
+4769,Minnesota,"Rochester, MN",$10.00
+4772,Minnesota,"St. Cloud, MN",$10.00
+4775,Mississippi,Adams County,$7.25
+4778,Mississippi,Alcorn County,$7.25
+4781,Mississippi,Amite County,$7.25
+4784,Mississippi,Attala County,$7.25
+4787,Mississippi,Benton County,$7.25
+4790,Mississippi,Bolivar County,$7.25
+4793,Mississippi,Calhoun County,$7.25
+4796,Mississippi,Carroll County,$7.25
+4799,Mississippi,Chickasaw County,$7.25
+4802,Mississippi,Choctaw County,$7.25
+4805,Mississippi,Claiborne County,$7.25
+4808,Mississippi,Clarke County,$7.25
+4811,Mississippi,Clay County,$7.25
+4814,Mississippi,Coahoma County,$7.25
+4817,Mississippi,Copiah County,$7.25
+4820,Mississippi,Covington County,$7.25
+4823,Mississippi,DeSoto County,$7.25
+4826,Mississippi,Forrest County,$7.25
+4829,Mississippi,Franklin County,$7.25
+4832,Mississippi,George County,$7.25
+4835,Mississippi,Greene County,$7.25
+4838,Mississippi,Grenada County,$7.25
+4841,Mississippi,Hancock County,$7.25
+4844,Mississippi,Harrison County,$7.25
+4847,Mississippi,Hinds County,$7.25
+4850,Mississippi,Holmes County,$7.25
+4853,Mississippi,Humphreys County,$7.25
+4856,Mississippi,Issaquena County,$7.25
+4859,Mississippi,Itawamba County,$7.25
+4862,Mississippi,Jackson County,$7.25
+4865,Mississippi,Jasper County,$7.25
+4868,Mississippi,Jefferson County,$7.25
+4871,Mississippi,Jefferson Davis County,$7.25
+4874,Mississippi,Jones County,$7.25
+4877,Mississippi,Kemper County,$7.25
+4880,Mississippi,Lafayette County,$7.25
+4883,Mississippi,Lamar County,$7.25
+4886,Mississippi,Lauderdale County,$7.25
+4889,Mississippi,Lawrence County,$7.25
+4892,Mississippi,Leake County,$7.25
+4895,Mississippi,Lee County,$7.25
+4898,Mississippi,Leflore County,$7.25
+4901,Mississippi,Lincoln County,$7.25
+4904,Mississippi,Lowndes County,$7.25
+4907,Mississippi,Madison County,$7.25
+4910,Mississippi,Marion County,$7.25
+4913,Mississippi,Marshall County,$7.25
+4916,Mississippi,Monroe County,$7.25
+4919,Mississippi,Montgomery County,$7.25
+4922,Mississippi,Neshoba County,$7.25
+4925,Mississippi,Newton County,$7.25
+4928,Mississippi,Noxubee County,$7.25
+4931,Mississippi,Oktibbeha County,$7.25
+4934,Mississippi,Panola County,$7.25
+4937,Mississippi,Pearl River County,$7.25
+4940,Mississippi,Perry County,$7.25
+4943,Mississippi,Pike County,$7.25
+4946,Mississippi,Pontotoc County,$7.25
+4949,Mississippi,Prentiss County,$7.25
+4952,Mississippi,Quitman County,$7.25
+4955,Mississippi,Rankin County,$7.25
+4958,Mississippi,Scott County,$7.25
+4961,Mississippi,Sharkey County,$7.25
+4964,Mississippi,Simpson County,$7.25
+4967,Mississippi,Smith County,$7.25
+4970,Mississippi,Stone County,$7.25
+4973,Mississippi,Sunflower County,$7.25
+4976,Mississippi,Tallahatchie County,$7.25
+4979,Mississippi,Tate County,$7.25
+4982,Mississippi,Tippah County,$7.25
+4985,Mississippi,Tishomingo County,$7.25
+4988,Mississippi,Tunica County,$7.25
+4991,Mississippi,Union County,$7.25
+4994,Mississippi,Walthall County,$7.25
+4997,Mississippi,Warren County,$7.25
+5000,Mississippi,Washington County,$7.25
+5003,Mississippi,Wayne County,$7.25
+5006,Mississippi,Webster County,$7.25
+5009,Mississippi,Wilkinson County,$7.25
+5012,Mississippi,Winston County,$7.25
+5015,Mississippi,Yalobusha County,$7.25
+5018,Mississippi,Yazoo County,$7.25
+5021,Mississippi,"Gulfport-Biloxi-Pascagoula, MS",$7.25
+5024,Mississippi,"Hattiesburg, MS",$7.25
+5027,Mississippi,"Jackson, MS",$7.25
+5030,Missouri,Adair County,$9.45
+5033,Missouri,Andrew County,$9.45
+5036,Missouri,Atchison County,$9.45
+5039,Missouri,Audrain County,$9.45
+5042,Missouri,Barry County,$9.45
+5045,Missouri,Barton County,$9.45
+5048,Missouri,Bates County,$9.45
+5051,Missouri,Benton County,$9.45
+5054,Missouri,Bollinger County,$9.45
+5057,Missouri,Boone County,$9.45
+5060,Missouri,Buchanan County,$9.45
+5063,Missouri,Butler County,$9.45
+5066,Missouri,Caldwell County,$9.45
+5069,Missouri,Callaway County,$9.45
+5072,Missouri,Camden County,$9.45
+5075,Missouri,Cape Girardeau County,$9.45
+5078,Missouri,Carroll County,$9.45
+5081,Missouri,Carter County,$9.45
+5084,Missouri,Cass County,$9.45
+5087,Missouri,Cedar County,$9.45
+5090,Missouri,Chariton County,$9.45
+5093,Missouri,Christian County,$9.45
+5096,Missouri,Clark County,$9.45
+5099,Missouri,Clay County,$9.45
+5102,Missouri,Clinton County,$9.45
+5105,Missouri,Cole County,$9.45
+5108,Missouri,Cooper County,$9.45
+5111,Missouri,Crawford County,$9.45
+5114,Missouri,Dade County,$9.45
+5117,Missouri,Dallas County,$9.45
+5120,Missouri,Daviess County,$9.45
+5123,Missouri,DeKalb County,$9.45
+5126,Missouri,Dent County,$9.45
+5129,Missouri,Douglas County,$9.45
+5132,Missouri,Dunklin County,$9.45
+5135,Missouri,Franklin County,$9.45
+5138,Missouri,Gasconade County,$9.45
+5141,Missouri,Gentry County,$9.45
+5144,Missouri,Greene County,$9.45
+5147,Missouri,Grundy County,$9.45
+5150,Missouri,Harrison County,$9.45
+5153,Missouri,Henry County,$9.45
+5156,Missouri,Hickory County,$9.45
+5159,Missouri,Holt County,$9.45
+5162,Missouri,Howard County,$9.45
+5165,Missouri,Howell County,$9.45
+5168,Missouri,Iron County,$9.45
+5171,Missouri,Jackson County,$9.45
+5174,Missouri,Jasper County,$9.45
+5177,Missouri,Jefferson County,$9.45
+5180,Missouri,Johnson County,$9.45
+5183,Missouri,Knox County,$9.45
+5186,Missouri,Laclede County,$9.45
+5189,Missouri,Lafayette County,$9.45
+5192,Missouri,Lawrence County,$9.45
+5195,Missouri,Lewis County,$9.45
+5198,Missouri,Lincoln County,$9.45
+5201,Missouri,Linn County,$9.45
+5204,Missouri,Livingston County,$9.45
+5207,Missouri,Macon County,$9.45
+5210,Missouri,Madison County,$9.45
+5213,Missouri,Maries County,$9.45
+5216,Missouri,Marion County,$9.45
+5219,Missouri,McDonald County,$9.45
+5222,Missouri,Mercer County,$9.45
+5225,Missouri,Miller County,$9.45
+5228,Missouri,Mississippi County,$9.45
+5231,Missouri,Moniteau County,$9.45
+5234,Missouri,Monroe County,$9.45
+5237,Missouri,Montgomery County,$9.45
+5240,Missouri,Morgan County,$9.45
+5243,Missouri,New Madrid County,$9.45
+5246,Missouri,Newton County,$9.45
+5249,Missouri,Nodaway County,$9.45
+5252,Missouri,Oregon County,$9.45
+5255,Missouri,Osage County,$9.45
+5258,Missouri,Ozark County,$9.45
+5261,Missouri,Pemiscot County,$9.45
+5264,Missouri,Perry County,$9.45
+5267,Missouri,Pettis County,$9.45
+5270,Missouri,Phelps County,$9.45
+5273,Missouri,Pike County,$9.45
+5276,Missouri,Platte County,$9.45
+5279,Missouri,Polk County,$9.45
+5282,Missouri,Pulaski County,$9.45
+5285,Missouri,Putnam County,$9.45
+5288,Missouri,Ralls County,$9.45
+5291,Missouri,Randolph County,$9.45
+5294,Missouri,Ray County,$9.45
+5297,Missouri,Reynolds County,$9.45
+5300,Missouri,Ripley County,$9.45
+5303,Missouri,Saline County,$9.45
+5306,Missouri,Schuyler County,$9.45
+5309,Missouri,Scotland County,$9.45
+5312,Missouri,Scott County,$9.45
+5315,Missouri,Shannon County,$9.45
+5318,Missouri,Shelby County,$9.45
+5321,Missouri,St. Charles County,$9.45
+5324,Missouri,St. Clair County,$9.45
+5327,Missouri,Ste. Genevieve County,$9.45
+5330,Missouri,St. Francois County,$9.45
+5333,Missouri,St. Louis city,$9.45
+5336,Missouri,St. Louis County,$9.45
+5339,Missouri,Stoddard County,$9.45
+5342,Missouri,Stone County,$9.45
+5345,Missouri,Sullivan County,$9.45
+5348,Missouri,Sullivan part,$9.45
+5351,Missouri,Taney County,$9.45
+5354,Missouri,Texas County,$9.45
+5357,Missouri,Vernon County,$9.45
+5360,Missouri,Warren County,$9.45
+5363,Missouri,Washington County,$9.45
+5366,Missouri,Wayne County,$9.45
+5369,Missouri,Webster County,$9.45
+5372,Missouri,Worth County,$9.45
+5375,Missouri,Wright County,$9.45
+5378,Missouri,"Cape Girardeau, MO",$9.45
+5381,Missouri,"Columbia, MO",$9.45
+5384,Missouri,"Jefferson City, MO",$9.45
+5387,Missouri,"Joplin, MO",$9.45
+5390,Missouri,"Kansas City, MO",$9.45
+5393,Missouri,"St. Joseph, MO",$9.45
+5396,Missouri,"St. Louis, MO",$9.45
+5399,Missouri,"Springfield, MO",$9.45
+5402,Montana,Beaverhead County,$8.65
+5405,Montana,Big Horn County,$8.65
+5408,Montana,Blaine County,$8.65
+5411,Montana,Broadwater County,$8.65
+5414,Montana,Carbon County,$8.65
+5417,Montana,Carter County,$8.65
+5420,Montana,Cascade County,$8.65
+5423,Montana,Chouteau County,$8.65
+5426,Montana,Custer County,$8.65
+5429,Montana,Daniels County,$8.65
+5432,Montana,Dawson County,$8.65
+5435,Montana,Deer Lodge County,$8.65
+5438,Montana,Fallon County,$8.65
+5441,Montana,Fergus County,$8.65
+5444,Montana,Flathead County,$8.65
+5447,Montana,Gallatin County,$8.65
+5450,Montana,Garfield County,$8.65
+5453,Montana,Glacier County,$8.65
+5456,Montana,Golden Valley County,$8.65
+5459,Montana,Granite County,$8.65
+5462,Montana,Hill County,$8.65
+5465,Montana,Jefferson County,$8.65
+5468,Montana,Judith Basin County,$8.65
+5471,Montana,Lake County,$8.65
+5474,Montana,Lewis and Clark County,$8.65
+5477,Montana,Liberty County,$8.65
+5480,Montana,Lincoln County,$8.65
+5483,Montana,Madison County,$8.65
+5486,Montana,McCone County,$8.65
+5489,Montana,Meagher County,$8.65
+5492,Montana,Mineral County,$8.65
+5495,Montana,Missoula County,$8.65
+5498,Montana,Musselshell County,$8.65
+5501,Montana,Park County,$8.65
+5504,Montana,Petroleum County,$8.65
+5507,Montana,Phillips County,$8.65
+5510,Montana,Pondera County,$8.65
+5513,Montana,Powder River County,$8.65
+5516,Montana,Powell County,$8.65
+5519,Montana,Prairie County,$8.65
+5522,Montana,Ravalli County,$8.65
+5525,Montana,Richland County,$8.65
+5528,Montana,Roosevelt County,$8.65
+5531,Montana,Rosebud County,$8.65
+5534,Montana,Sanders County,$8.65
+5537,Montana,Sheridan County,$8.65
+5540,Montana,Silver Bow County,$8.65
+5543,Montana,Stillwater County,$8.65
+5546,Montana,Sweet Grass County,$8.65
+5549,Montana,Teton County,$8.65
+5552,Montana,Toole County,$8.65
+5555,Montana,Treasure County,$8.65
+5558,Montana,Valley County,$8.65
+5561,Montana,Wheatland County,$8.65
+5564,Montana,Wibaux County,$8.65
+5567,Montana,Yellowstone County,$8.65
+5570,Montana,"Billings, MT",$8.65
+5573,Montana,"Great Falls, MT",$8.65
+5576,Montana,"Missoula, MT",$8.65
+5579,Nebraska,Adams County,$9.00
+5582,Nebraska,Antelope County,$9.00
+5585,Nebraska,Arthur County,$9.00
+5588,Nebraska,Banner County,$9.00
+5591,Nebraska,Blaine County,$9.00
+5594,Nebraska,Boone County,$9.00
+5597,Nebraska,Box Butte County,$9.00
+5600,Nebraska,Boyd County,$9.00
+5603,Nebraska,Brown County,$9.00
+5606,Nebraska,Buffalo County,$9.00
+5609,Nebraska,Burt County,$9.00
+5612,Nebraska,Butler County,$9.00
+5615,Nebraska,Cass County,$9.00
+5618,Nebraska,Cedar County,$9.00
+5621,Nebraska,Chase County,$9.00
+5624,Nebraska,Cherry County,$9.00
+5627,Nebraska,Cheyenne County,$9.00
+5630,Nebraska,Clay County,$9.00
+5633,Nebraska,Colfax County,$9.00
+5636,Nebraska,Cuming County,$9.00
+5639,Nebraska,Custer County,$9.00
+5642,Nebraska,Dakota County,$9.00
+5645,Nebraska,Dawes County,$9.00
+5648,Nebraska,Dawson County,$9.00
+5651,Nebraska,Deuel County,$9.00
+5654,Nebraska,Dixon County,$9.00
+5657,Nebraska,Dodge County,$9.00
+5660,Nebraska,Douglas County,$9.00
+5663,Nebraska,Dundy County,$9.00
+5666,Nebraska,Fillmore County,$9.00
+5669,Nebraska,Franklin County,$9.00
+5672,Nebraska,Frontier County,$9.00
+5675,Nebraska,Furnas County,$9.00
+5678,Nebraska,Gage County,$9.00
+5681,Nebraska,Garden County,$9.00
+5684,Nebraska,Garfield County,$9.00
+5687,Nebraska,Gosper County,$9.00
+5690,Nebraska,Grant County,$9.00
+5693,Nebraska,Greeley County,$9.00
+5696,Nebraska,Hall County,$9.00
+5699,Nebraska,Hamilton County,$9.00
+5702,Nebraska,Harlan County,$9.00
+5705,Nebraska,Hayes County,$9.00
+5708,Nebraska,Hitchcock County,$9.00
+5711,Nebraska,Holt County,$9.00
+5714,Nebraska,Hooker County,$9.00
+5717,Nebraska,Howard County,$9.00
+5720,Nebraska,Jefferson County,$9.00
+5723,Nebraska,Johnson County,$9.00
+5726,Nebraska,Kearney County,$9.00
+5729,Nebraska,Keith County,$9.00
+5732,Nebraska,Keya Paha County,$9.00
+5735,Nebraska,Kimball County,$9.00
+5738,Nebraska,Knox County,$9.00
+5741,Nebraska,Lancaster County,$9.00
+5744,Nebraska,Lincoln County,$9.00
+5747,Nebraska,Logan County,$9.00
+5750,Nebraska,Loup County,$9.00
+5753,Nebraska,Madison County,$9.00
+5756,Nebraska,McPherson County,$9.00
+5759,Nebraska,Merrick County,$9.00
+5762,Nebraska,Morrill County,$9.00
+5765,Nebraska,Nance County,$9.00
+5768,Nebraska,Nemaha County,$9.00
+5771,Nebraska,Nuckolls County,$9.00
+5774,Nebraska,Otoe County,$9.00
+5777,Nebraska,Pawnee County,$9.00
+5780,Nebraska,Perkins County,$9.00
+5783,Nebraska,Phelps County,$9.00
+5786,Nebraska,Pierce County,$9.00
+5789,Nebraska,Platte County,$9.00
+5792,Nebraska,Polk County,$9.00
+5795,Nebraska,Red Willow County,$9.00
+5798,Nebraska,Richardson County,$9.00
+5801,Nebraska,Rock County,$9.00
+5804,Nebraska,Saline County,$9.00
+5807,Nebraska,Sarpy County,$9.00
+5810,Nebraska,Saunders County,$9.00
+5813,Nebraska,Scotts Bluff County,$9.00
+5816,Nebraska,Seward County,$9.00
+5819,Nebraska,Sheridan County,$9.00
+5822,Nebraska,Sherman County,$9.00
+5825,Nebraska,Sioux County,$9.00
+5828,Nebraska,Stanton County,$9.00
+5831,Nebraska,Thayer County,$9.00
+5834,Nebraska,Thomas County,$9.00
+5837,Nebraska,Thurston County,$9.00
+5840,Nebraska,Valley County,$9.00
+5843,Nebraska,Washington County,$9.00
+5846,Nebraska,Wayne County,$9.00
+5849,Nebraska,Webster County,$9.00
+5852,Nebraska,Wheeler County,$9.00
+5855,Nebraska,York County,$9.00
+5858,Nebraska,"Grand Island, NE",$9.00
+5861,Nebraska,"Lincoln, NE",$9.00
+5864,Nebraska,"Omaha-Council Bluffs, NE",$9.00
+5867,Nevada,Carson City,$8.00
+5870,Nevada,Churchill County,$8.00
+5873,Nevada,Clark County,$8.00
+5876,Nevada,Douglas County,$8.00
+5879,Nevada,Elko County,$8.00
+5882,Nevada,Esmeralda County,$8.00
+5885,Nevada,Eureka County,$8.00
+5888,Nevada,Humboldt County,$8.00
+5891,Nevada,Lander County,$8.00
+5894,Nevada,Lincoln County,$8.00
+5897,Nevada,Lyon County,$8.00
+5900,Nevada,Mineral County,$8.00
+5903,Nevada,Nye County,$8.00
+5906,Nevada,Pershing County,$8.00
+5909,Nevada,Storey County,$8.00
+5912,Nevada,Washoe County,$8.00
+5915,Nevada,White Pine County,$8.00
+5918,Nevada,"Carson City, NV",$8.00
+5921,Nevada,"Las Vegas-Henderson-Paradise, NV",$8.00
+5924,Nevada,"Reno, NV",$8.00
+5927,New Hampshire,Belknap County,$7.25
+5930,New Hampshire,Carroll County,$7.25
+5933,New Hampshire,Cheshire County,$7.25
+5936,New Hampshire,Coos County,$7.25
+5939,New Hampshire,Grafton County,$7.25
+5942,New Hampshire,Hillsborough County,$7.25
+5945,New Hampshire,Merrimack County,$7.25
+5948,New Hampshire,Rockingham County,$7.25
+5951,New Hampshire,Strafford County,$7.25
+5954,New Hampshire,Sullivan County,$7.25
+5957,New Hampshire,"Manchester-Nashua, NH",$7.25
+5960,New Jersey,Atlantic County,$11.00
+5963,New Jersey,Bergen County,$11.00
+5966,New Jersey,Burlington County,$11.00
+5969,New Jersey,Camden County,$11.00
+5972,New Jersey,Cape May County,$11.00
+5975,New Jersey,Cumberland County,$11.00
+5978,New Jersey,Essex County,$11.00
+5981,New Jersey,Gloucester County,$11.00
+5984,New Jersey,Hudson County,$11.00
+5987,New Jersey,Hunterdon County,$11.00
+5990,New Jersey,Mercer County,$11.00
+5993,New Jersey,Middlesex County,$11.00
+5996,New Jersey,Monmouth County,$11.00
+5999,New Jersey,Morris County,$11.00
+6002,New Jersey,Ocean County,$11.00
+6005,New Jersey,Passaic County,$11.00
+6008,New Jersey,Salem County,$11.00
+6011,New Jersey,Somerset County,$11.00
+6014,New Jersey,Sussex County,$11.00
+6017,New Jersey,Union County,$11.00
+6020,New Jersey,Warren County,$11.00
+6023,New Jersey,"Atlantic City-Hammonton, NJ",$11.00
+6026,New Jersey,"Ocean City, NJ",$11.00
+6029,New Jersey,"Trenton, NJ",$11.00
+6032,New Jersey,"Vineland-Bridgeton, NJ",$11.00
+6035,New Mexico,Bernalillo County,$9.00
+6038,New Mexico,Catron County,$9.00
+6041,New Mexico,Chaves County,$9.00
+6044,New Mexico,Cibola County,$9.00
+6047,New Mexico,Colfax County,$9.00
+6050,New Mexico,Curry County,$9.00
+6053,New Mexico,De Baca County,$9.00
+6056,New Mexico,Dona Ana County,$9.00
+6059,New Mexico,Eddy County,$9.00
+6062,New Mexico,Grant County,$9.00
+6065,New Mexico,Guadalupe County,$9.00
+6068,New Mexico,Harding County,$9.00
+6071,New Mexico,Hidalgo County,$9.00
+6074,New Mexico,Lea County,$9.00
+6077,New Mexico,Lincoln County,$9.00
+6080,New Mexico,Los Alamos County,$9.00
+6083,New Mexico,Luna County,$9.00
+6086,New Mexico,McKinley County,$9.00
+6089,New Mexico,Mora County,$9.00
+6092,New Mexico,Otero County,$9.00
+6095,New Mexico,Quay County,$9.00
+6098,New Mexico,Rio Arriba County,$9.00
+6101,New Mexico,Roosevelt County,$9.00
+6104,New Mexico,Sandoval County,$9.00
+6107,New Mexico,San Juan County,$9.00
+6110,New Mexico,San Miguel County,$9.00
+6113,New Mexico,Santa Fe County,$9.00
+6116,New Mexico,Sierra County,$9.00
+6119,New Mexico,Socorro County,$9.00
+6122,New Mexico,Taos County,$9.00
+6125,New Mexico,Torrance County,$9.00
+6128,New Mexico,Union County,$9.00
+6131,New Mexico,Valencia County,$9.00
+6134,New Mexico,"Albuquerque, NM",$9.00
+6137,New Mexico,"Farmington, NM",$9.00
+6140,New Mexico,"Las Cruces, NM",$9.00
+6143,New Mexico,"Santa Fe, NM",$9.00
+6146,New York,Albany County,$11.80
+6149,New York,Allegany County,$11.80
+6152,New York,Bronx County,$11.80
+6155,New York,Broome County,$11.80
+6158,New York,Cattaraugus County,$11.80
+6161,New York,Cayuga County,$11.80
+6164,New York,Chautauqua County,$11.80
+6167,New York,Chemung County,$11.80
+6170,New York,Chenango County,$11.80
+6173,New York,Clinton County,$11.80
+6176,New York,Columbia County,$11.80
+6179,New York,Cortland County,$11.80
+6182,New York,Delaware County,$11.80
+6185,New York,Dutchess County,$11.80
+6188,New York,Erie County,$11.80
+6191,New York,Essex County,$11.80
+6194,New York,Franklin County,$11.80
+6197,New York,Fulton County,$11.80
+6200,New York,Genesee County,$11.80
+6203,New York,Greene County,$11.80
+6206,New York,Hamilton County,$11.80
+6209,New York,Herkimer County,$11.80
+6212,New York,Jefferson County,$11.80
+6215,New York,Kings County,$11.80
+6218,New York,Lewis County,$11.80
+6221,New York,Livingston County,$11.80
+6224,New York,Madison County,$11.80
+6227,New York,Monroe County,$11.80
+6230,New York,Montgomery County,$11.80
+6233,New York,Nassau County,$11.80
+6236,New York,New York County,$11.80
+6239,New York,Niagara County,$11.80
+6242,New York,Oneida County,$11.80
+6245,New York,Onondaga County,$11.80
+6248,New York,Ontario County,$11.80
+6251,New York,Orange County,$11.80
+6254,New York,Orleans County,$11.80
+6257,New York,Oswego County,$11.80
+6260,New York,Otsego County,$11.80
+6263,New York,Putnam County,$11.80
+6266,New York,Queens County,$11.80
+6269,New York,Rensselaer County,$11.80
+6272,New York,Richmond County,$11.80
+6275,New York,Rockland County,$11.80
+6278,New York,Saratoga County,$11.80
+6281,New York,Schenectady County,$11.80
+6284,New York,Schoharie County,$11.80
+6287,New York,Schuyler County,$11.80
+6290,New York,Seneca County,$11.80
+6293,New York,Steuben County,$11.80
+6296,New York,St. Lawrence County,$11.80
+6299,New York,Suffolk County,$11.80
+6302,New York,Sullivan County,$11.80
+6305,New York,Tioga County,$11.80
+6308,New York,Tompkins County,$11.80
+6311,New York,Ulster County,$11.80
+6314,New York,Warren County,$11.80
+6317,New York,Washington County,$11.80
+6320,New York,Wayne County,$11.80
+6323,New York,Westchester County,$11.80
+6326,New York,Wyoming County,$11.80
+6329,New York,Yates County,$11.80
+6332,New York,"Albany-Schenectady-Troy, NY",$11.80
+6335,New York,"Binghamton, NY",$11.80
+6338,New York,"Buffalo-Cheektowaga-Niagara Falls, NY",$11.80
+6341,New York,"Elmira, NY",$11.80
+6344,New York,"Glens Falls, NY",$11.80
+6347,New York,"Ithaca, NY",$11.80
+6350,New York,"Kingston, NY",$11.80
+6353,New York,"New York-Newark-Jersey City, NY",$11.80
+6356,New York,"Rochester, NY",$11.80
+6359,New York,"Syracuse, NY",$11.80
+6362,New York,"Utica-Rome, NY",$11.80
+6365,New York,"Watertown-Fort Drum, NY",$11.80
+6368,North Carolina,Alamance County,$7.25
+6371,North Carolina,Alexander County,$7.25
+6374,North Carolina,Alleghany County,$7.25
+6377,North Carolina,Anson County,$7.25
+6380,North Carolina,Ashe County,$7.25
+6383,North Carolina,Avery County,$7.25
+6386,North Carolina,Beaufort County,$7.25
+6389,North Carolina,Bertie County,$7.25
+6392,North Carolina,Bladen County,$7.25
+6395,North Carolina,Brunswick County,$7.25
+6398,North Carolina,Buncombe County,$7.25
+6401,North Carolina,Burke County,$7.25
+6404,North Carolina,Cabarrus County,$7.25
+6407,North Carolina,Caldwell County,$7.25
+6410,North Carolina,Camden County,$7.25
+6413,North Carolina,Carteret County,$7.25
+6416,North Carolina,Caswell County,$7.25
+6419,North Carolina,Catawba County,$7.25
+6422,North Carolina,Chatham County,$7.25
+6425,North Carolina,Cherokee County,$7.25
+6428,North Carolina,Chowan County,$7.25
+6431,North Carolina,Clay County,$7.25
+6434,North Carolina,Cleveland County,$7.25
+6437,North Carolina,Columbus County,$7.25
+6440,North Carolina,Craven County,$7.25
+6443,North Carolina,Cumberland County,$7.25
+6446,North Carolina,Currituck County,$7.25
+6449,North Carolina,Dare County,$7.25
+6452,North Carolina,Davidson County,$7.25
+6455,North Carolina,Davie County,$7.25
+6458,North Carolina,Duplin County,$7.25
+6461,North Carolina,Durham County,$7.25
+6464,North Carolina,Edgecombe County,$7.25
+6467,North Carolina,Forsyth County,$7.25
+6470,North Carolina,Franklin County,$7.25
+6473,North Carolina,Gaston County,$7.25
+6476,North Carolina,Gates County,$7.25
+6479,North Carolina,Graham County,$7.25
+6482,North Carolina,Granville County,$7.25
+6485,North Carolina,Greene County,$7.25
+6488,North Carolina,Guilford County,$7.25
+6491,North Carolina,Halifax County,$7.25
+6494,North Carolina,Harnett County,$7.25
+6497,North Carolina,Haywood County,$7.25
+6500,North Carolina,Henderson County,$7.25
+6503,North Carolina,Hertford County,$7.25
+6506,North Carolina,Hoke County,$7.25
+6509,North Carolina,Hyde County,$7.25
+6512,North Carolina,Iredell County,$7.25
+6515,North Carolina,Jackson County,$7.25
+6518,North Carolina,Johnston County,$7.25
+6521,North Carolina,Jones County,$7.25
+6524,North Carolina,Lee County,$7.25
+6527,North Carolina,Lenoir County,$7.25
+6530,North Carolina,Lincoln County,$7.25
+6533,North Carolina,Macon County,$7.25
+6536,North Carolina,Madison County,$7.25
+6539,North Carolina,Martin County,$7.25
+6542,North Carolina,McDowell County,$7.25
+6545,North Carolina,Mecklenburg County,$7.25
+6548,North Carolina,Mitchell County,$7.25
+6551,North Carolina,Montgomery County,$7.25
+6554,North Carolina,Moore County,$7.25
+6557,North Carolina,Nash County,$7.25
+6560,North Carolina,New Hanover County,$7.25
+6563,North Carolina,Northampton County,$7.25
+6566,North Carolina,Onslow County,$7.25
+6569,North Carolina,Orange County,$7.25
+6572,North Carolina,Pamlico County,$7.25
+6575,North Carolina,Pasquotank County,$7.25
+6578,North Carolina,Pender County,$7.25
+6581,North Carolina,Perquimans County,$7.25
+6584,North Carolina,Person County,$7.25
+6587,North Carolina,Pitt County,$7.25
+6590,North Carolina,Polk County,$7.25
+6593,North Carolina,Randolph County,$7.25
+6596,North Carolina,Richmond County,$7.25
+6599,North Carolina,Robeson County,$7.25
+6602,North Carolina,Rockingham County,$7.25
+6605,North Carolina,Rowan County,$7.25
+6608,North Carolina,Rutherford County,$7.25
+6611,North Carolina,Sampson County,$7.25
+6614,North Carolina,Scotland County,$7.25
+6617,North Carolina,Stanly County,$7.25
+6620,North Carolina,Stokes County,$7.25
+6623,North Carolina,Surry County,$7.25
+6626,North Carolina,Swain County,$7.25
+6629,North Carolina,Transylvania County,$7.25
+6632,North Carolina,Tyrrell County,$7.25
+6635,North Carolina,Union County,$7.25
+6638,North Carolina,Vance County,$7.25
+6641,North Carolina,Wake County,$7.25
+6644,North Carolina,Warren County,$7.25
+6647,North Carolina,Washington County,$7.25
+6650,North Carolina,Watauga County,$7.25
+6653,North Carolina,Wayne County,$7.25
+6656,North Carolina,Wilkes County,$7.25
+6659,North Carolina,Wilson County,$7.25
+6662,North Carolina,Yadkin County,$7.25
+6665,North Carolina,Yancey County,$7.25
+6668,North Carolina,"Asheville, NC",$7.25
+6671,North Carolina,"Burlington, NC",$7.25
+6674,North Carolina,"Charlotte-Concord-Gastonia, NC",$7.25
+6677,North Carolina,"Durham-Chapel Hill, NC",$7.25
+6680,North Carolina,"Fayetteville, NC",$7.25
+6683,North Carolina,"Goldsboro, NC",$7.25
+6686,North Carolina,"Greensboro-High Point, NC",$7.25
+6689,North Carolina,"Greenville, NC",$7.25
+6692,North Carolina,"Hickory-Lenoir-Morganton, NC",$7.25
+6695,North Carolina,"Jacksonville, NC",$7.25
+6698,North Carolina,"New Bern, NC",$7.25
+6701,North Carolina,"Raleigh, NC",$7.25
+6704,North Carolina,"Rocky Mount, NC",$7.25
+6707,North Carolina,"Wilmington, NC",$7.25
+6710,North Carolina,"Winston-Salem, NC",$7.25
+6713,North Dakota,Adams County,$7.25
+6716,North Dakota,Barnes County,$7.25
+6719,North Dakota,Benson County,$7.25
+6722,North Dakota,Billings County,$7.25
+6725,North Dakota,Bottineau County,$7.25
+6728,North Dakota,Bowman County,$7.25
+6731,North Dakota,Burke County,$7.25
+6734,North Dakota,Burleigh County,$7.25
+6737,North Dakota,Cass County,$7.25
+6740,North Dakota,Cavalier County,$7.25
+6743,North Dakota,Dickey County,$7.25
+6746,North Dakota,Divide County,$7.25
+6749,North Dakota,Dunn County,$7.25
+6752,North Dakota,Eddy County,$7.25
+6755,North Dakota,Emmons County,$7.25
+6758,North Dakota,Foster County,$7.25
+6761,North Dakota,Golden Valley County,$7.25
+6764,North Dakota,Grand Forks County,$7.25
+6767,North Dakota,Grant County,$7.25
+6770,North Dakota,Griggs County,$7.25
+6773,North Dakota,Hettinger County,$7.25
+6776,North Dakota,Kidder County,$7.25
+6779,North Dakota,LaMoure County,$7.25
+6782,North Dakota,Logan County,$7.25
+6785,North Dakota,McHenry County,$7.25
+6788,North Dakota,McIntosh County,$7.25
+6791,North Dakota,McKenzie County,$7.25
+6794,North Dakota,McLean County,$7.25
+6797,North Dakota,Mercer County,$7.25
+6800,North Dakota,Morton County,$7.25
+6803,North Dakota,Mountrail County,$7.25
+6806,North Dakota,Nelson County,$7.25
+6809,North Dakota,Oliver County,$7.25
+6812,North Dakota,Pembina County,$7.25
+6815,North Dakota,Pierce County,$7.25
+6818,North Dakota,Ramsey County,$7.25
+6821,North Dakota,Ransom County,$7.25
+6824,North Dakota,Renville County,$7.25
+6827,North Dakota,Richland County,$7.25
+6830,North Dakota,Rolette County,$7.25
+6833,North Dakota,Sargent County,$7.25
+6836,North Dakota,Sheridan County,$7.25
+6839,North Dakota,Sioux County,$7.25
+6842,North Dakota,Slope County,$7.25
+6845,North Dakota,Stark County,$7.25
+6848,North Dakota,Steele County,$7.25
+6851,North Dakota,Stutsman County,$7.25
+6854,North Dakota,Towner County,$7.25
+6857,North Dakota,Traill County,$7.25
+6860,North Dakota,Walsh County,$7.25
+6863,North Dakota,Ward County,$7.25
+6866,North Dakota,Wells County,$7.25
+6869,North Dakota,Williams County,$7.25
+6872,North Dakota,"Bismarck, ND",$7.25
+6875,North Dakota,"Fargo, ND",$7.25
+6878,North Dakota,"Grand Forks, ND",$7.25
+6881,Ohio,Adams County,$8.70
+6884,Ohio,Allen County,$8.70
+6887,Ohio,Ashland County,$8.70
+6890,Ohio,Ashtabula County,$8.70
+6893,Ohio,Athens County,$8.70
+6896,Ohio,Auglaize County,$8.70
+6899,Ohio,Belmont County,$8.70
+6902,Ohio,Brown County,$8.70
+6905,Ohio,Butler County,$8.70
+6908,Ohio,Carroll County,$8.70
+6911,Ohio,Champaign County,$8.70
+6914,Ohio,Clark County,$8.70
+6917,Ohio,Clermont County,$8.70
+6920,Ohio,Clinton County,$8.70
+6923,Ohio,Columbiana County,$8.70
+6926,Ohio,Coshocton County,$8.70
+6929,Ohio,Crawford County,$8.70
+6932,Ohio,Cuyahoga County,$8.70
+6935,Ohio,Darke County,$8.70
+6938,Ohio,Defiance County,$8.70
+6941,Ohio,Delaware County,$8.70
+6944,Ohio,Erie County,$8.70
+6947,Ohio,Fairfield County,$8.70
+6950,Ohio,Fayette County,$8.70
+6953,Ohio,Franklin County,$8.70
+6956,Ohio,Fulton County,$8.70
+6959,Ohio,Gallia County,$8.70
+6962,Ohio,Geauga County,$8.70
+6965,Ohio,Greene County,$8.70
+6968,Ohio,Guernsey County,$8.70
+6971,Ohio,Hamilton County,$8.70
+6974,Ohio,Hancock County,$8.70
+6977,Ohio,Hardin County,$8.70
+6980,Ohio,Harrison County,$8.70
+6983,Ohio,Henry County,$8.70
+6986,Ohio,Highland County,$8.70
+6989,Ohio,Hocking County,$8.70
+6992,Ohio,Holmes County,$8.70
+6995,Ohio,Huron County,$8.70
+6998,Ohio,Jackson County,$8.70
+7001,Ohio,Jefferson County,$8.70
+7004,Ohio,Knox County,$8.70
+7007,Ohio,Lake County,$8.70
+7010,Ohio,Lawrence County,$8.70
+7013,Ohio,Licking County,$8.70
+7016,Ohio,Logan County,$8.70
+7019,Ohio,Lorain County,$8.70
+7022,Ohio,Lucas County,$8.70
+7025,Ohio,Madison County,$8.70
+7028,Ohio,Mahoning County,$8.70
+7031,Ohio,Marion County,$8.70
+7034,Ohio,Medina County,$8.70
+7037,Ohio,Meigs County,$8.70
+7040,Ohio,Mercer County,$8.70
+7043,Ohio,Miami County,$8.70
+7046,Ohio,Monroe County,$8.70
+7049,Ohio,Montgomery County,$8.70
+7052,Ohio,Morgan County,$8.70
+7055,Ohio,Morrow County,$8.70
+7058,Ohio,Muskingum County,$8.70
+7061,Ohio,Noble County,$8.70
+7064,Ohio,Ottawa County,$8.70
+7067,Ohio,Paulding County,$8.70
+7070,Ohio,Perry County,$8.70
+7073,Ohio,Pickaway County,$8.70
+7076,Ohio,Pike County,$8.70
+7079,Ohio,Portage County,$8.70
+7082,Ohio,Preble County,$8.70
+7085,Ohio,Putnam County,$8.70
+7088,Ohio,Richland County,$8.70
+7091,Ohio,Ross County,$8.70
+7094,Ohio,Sandusky County,$8.70
+7097,Ohio,Scioto County,$8.70
+7100,Ohio,Seneca County,$8.70
+7103,Ohio,Shelby County,$8.70
+7106,Ohio,Stark County,$8.70
+7109,Ohio,Summit County,$8.70
+7112,Ohio,Trumbull County,$8.70
+7115,Ohio,Tuscarawas County,$8.70
+7118,Ohio,Union County,$8.70
+7121,Ohio,Van Wert County,$8.70
+7124,Ohio,Vinton County,$8.70
+7127,Ohio,Warren County,$8.70
+7130,Ohio,Washington County,$8.70
+7133,Ohio,Wayne County,$8.70
+7136,Ohio,Williams County,$8.70
+7139,Ohio,Wood County,$8.70
+7142,Ohio,Wyandot County,$8.70
+7145,Ohio,"Akron, OH",$8.70
+7148,Ohio,"Canton-Massillon, OH",$8.70
+7151,Ohio,"Cincinnati, OH",$8.70
+7154,Ohio,"Cleveland-Elyria, OH",$8.70
+7157,Ohio,"Columbus, OH",$8.70
+7160,Ohio,"Dayton, OH",$8.70
+7163,Ohio,"Lima, OH",$8.70
+7166,Ohio,"Mansfield, OH",$8.70
+7169,Ohio,"Springfield, OH",$8.70
+7172,Ohio,"Toledo, OH",$8.70
+7175,Ohio,"Youngstown-Warren-Boardman, OH",$8.70
+7178,Oklahoma,Adair County,$7.25
+7181,Oklahoma,Alfalfa County,$7.25
+7184,Oklahoma,Atoka County,$7.25
+7187,Oklahoma,Beaver County,$7.25
+7190,Oklahoma,Beckham County,$7.25
+7193,Oklahoma,Blaine County,$7.25
+7196,Oklahoma,Bryan County,$7.25
+7199,Oklahoma,Caddo County,$7.25
+7202,Oklahoma,Canadian County,$7.25
+7205,Oklahoma,Carter County,$7.25
+7208,Oklahoma,Cherokee County,$7.25
+7211,Oklahoma,Choctaw County,$7.25
+7214,Oklahoma,Cimarron County,$7.25
+7217,Oklahoma,Cleveland County,$7.25
+7220,Oklahoma,Coal County,$7.25
+7223,Oklahoma,Comanche County,$7.25
+7226,Oklahoma,Cotton County,$7.25
+7229,Oklahoma,Craig County,$7.25
+7232,Oklahoma,Creek County,$7.25
+7235,Oklahoma,Custer County,$7.25
+7238,Oklahoma,Delaware County,$7.25
+7241,Oklahoma,Dewey County,$7.25
+7244,Oklahoma,Ellis County,$7.25
+7247,Oklahoma,Garfield County,$7.25
+7250,Oklahoma,Garvin County,$7.25
+7253,Oklahoma,Grady County,$7.25
+7256,Oklahoma,Grant County,$7.25
+7259,Oklahoma,Greer County,$7.25
+7262,Oklahoma,Harmon County,$7.25
+7265,Oklahoma,Harper County,$7.25
+7268,Oklahoma,Haskell County,$7.25
+7271,Oklahoma,Hughes County,$7.25
+7274,Oklahoma,Jackson County,$7.25
+7277,Oklahoma,Jefferson County,$7.25
+7280,Oklahoma,Johnston County,$7.25
+7283,Oklahoma,Kay County,$7.25
+7286,Oklahoma,Kingfisher County,$7.25
+7289,Oklahoma,Kiowa County,$7.25
+7292,Oklahoma,Latimer County,$7.25
+7295,Oklahoma,Le Flore County,$7.25
+7298,Oklahoma,Lincoln County,$7.25
+7301,Oklahoma,Logan County,$7.25
+7304,Oklahoma,Love County,$7.25
+7307,Oklahoma,Major County,$7.25
+7310,Oklahoma,Marshall County,$7.25
+7313,Oklahoma,Mayes County,$7.25
+7316,Oklahoma,McClain County,$7.25
+7319,Oklahoma,McCurtain County,$7.25
+7322,Oklahoma,McIntosh County,$7.25
+7325,Oklahoma,Murray County,$7.25
+7328,Oklahoma,Muskogee County,$7.25
+7331,Oklahoma,Noble County,$7.25
+7334,Oklahoma,Nowata County,$7.25
+7337,Oklahoma,Okfuskee County,$7.25
+7340,Oklahoma,Oklahoma County,$7.25
+7343,Oklahoma,Okmulgee County,$7.25
+7346,Oklahoma,Osage County,$7.25
+7349,Oklahoma,Ottawa County,$7.25
+7352,Oklahoma,Pawnee County,$7.25
+7355,Oklahoma,Payne County,$7.25
+7358,Oklahoma,Pittsburg County,$7.25
+7361,Oklahoma,Pontotoc County,$7.25
+7364,Oklahoma,Pottawatomie County,$7.25
+7367,Oklahoma,Pushmataha County,$7.25
+7370,Oklahoma,Roger Mills County,$7.25
+7373,Oklahoma,Rogers County,$7.25
+7376,Oklahoma,Seminole County,$7.25
+7379,Oklahoma,Sequoyah County,$7.25
+7382,Oklahoma,Stephens County,$7.25
+7385,Oklahoma,Texas County,$7.25
+7388,Oklahoma,Tillman County,$7.25
+7391,Oklahoma,Tulsa County,$7.25
+7394,Oklahoma,Wagoner County,$7.25
+7397,Oklahoma,Washington County,$7.25
+7400,Oklahoma,Washita County,$7.25
+7403,Oklahoma,Woods County,$7.25
+7406,Oklahoma,Woodward County,$7.25
+7409,Oklahoma,"Enid, OK",$7.25
+7412,Oklahoma,"Lawton, OK",$7.25
+7415,Oklahoma,"Oklahoma City, OK",$7.25
+7418,Oklahoma,"Tulsa, OK",$7.25
+7421,Oregon,Baker County,$12.00
+7424,Oregon,Benton County,$12.00
+7427,Oregon,Clackamas County,$12.00
+7430,Oregon,Clatsop County,$12.00
+7433,Oregon,Columbia County,$12.00
+7436,Oregon,Coos County,$12.00
+7439,Oregon,Crook County,$12.00
+7442,Oregon,Curry County,$12.00
+7445,Oregon,Deschutes County,$12.00
+7448,Oregon,Douglas County,$12.00
+7451,Oregon,Gilliam County,$12.00
+7454,Oregon,Grant County,$12.00
+7457,Oregon,Harney County,$12.00
+7460,Oregon,Hood River County,$12.00
+7463,Oregon,Jackson County,$12.00
+7466,Oregon,Jefferson County,$12.00
+7469,Oregon,Josephine County,$12.00
+7472,Oregon,Klamath County,$12.00
+7475,Oregon,Lake County,$12.00
+7478,Oregon,Lane County,$12.00
+7481,Oregon,Lincoln County,$12.00
+7484,Oregon,Linn County,$12.00
+7487,Oregon,Malheur County,$12.00
+7490,Oregon,Marion County,$12.00
+7493,Oregon,Morrow County,$12.00
+7496,Oregon,Multnomah County,$12.00
+7499,Oregon,Polk County,$12.00
+7502,Oregon,Sherman County,$12.00
+7505,Oregon,Tillamook County,$12.00
+7508,Oregon,Umatilla County,$12.00
+7511,Oregon,Union County,$12.00
+7514,Oregon,Wallowa County,$12.00
+7517,Oregon,Wasco County,$12.00
+7520,Oregon,Washington County,$12.00
+7523,Oregon,Wheeler County,$12.00
+7526,Oregon,Yamhill County,$12.00
+7529,Oregon,"Albany, OR",$12.00
+7532,Oregon,"Bend-Redmond, OR",$12.00
+7535,Oregon,"Corvallis, OR",$12.00
+7538,Oregon,"Eugene, OR",$12.00
+7541,Oregon,"Grants Pass, OR",$12.00
+7544,Oregon,"Medford, OR",$12.00
+7547,Oregon,"Portland-Vancouver-Hillsboro, OR",$12.00
+7550,Oregon,"Salem, OR",$12.00
+7553,Pennsylvania,Adams County,$7.25
+7556,Pennsylvania,Allegheny County,$7.25
+7559,Pennsylvania,Armstrong County,$7.25
+7562,Pennsylvania,Beaver County,$7.25
+7565,Pennsylvania,Bedford County,$7.25
+7568,Pennsylvania,Berks County,$7.25
+7571,Pennsylvania,Blair County,$7.25
+7574,Pennsylvania,Bradford County,$7.25
+7577,Pennsylvania,Bucks County,$7.25
+7580,Pennsylvania,Butler County,$7.25
+7583,Pennsylvania,Cambria County,$7.25
+7586,Pennsylvania,Cameron County,$7.25
+7589,Pennsylvania,Carbon County,$7.25
+7592,Pennsylvania,Centre County,$7.25
+7595,Pennsylvania,Chester County,$7.25
+7598,Pennsylvania,Clarion County,$7.25
+7601,Pennsylvania,Clearfield County,$7.25
+7604,Pennsylvania,Clinton County,$7.25
+7607,Pennsylvania,Columbia County,$7.25
+7610,Pennsylvania,Crawford County,$7.25
+7613,Pennsylvania,Cumberland County,$7.25
+7616,Pennsylvania,Dauphin County,$7.25
+7619,Pennsylvania,Delaware County,$7.25
+7622,Pennsylvania,Elk County,$7.25
+7625,Pennsylvania,Erie County,$7.25
+7628,Pennsylvania,Fayette County,$7.25
+7631,Pennsylvania,Forest County,$7.25
+7634,Pennsylvania,Franklin County,$7.25
+7637,Pennsylvania,Fulton County,$7.25
+7640,Pennsylvania,Greene County,$7.25
+7643,Pennsylvania,Huntingdon County,$7.25
+7646,Pennsylvania,Indiana County,$7.25
+7649,Pennsylvania,Jefferson County,$7.25
+7652,Pennsylvania,Juniata County,$7.25
+7655,Pennsylvania,Lackawanna County,$7.25
+7658,Pennsylvania,Lancaster County,$7.25
+7661,Pennsylvania,Lawrence County,$7.25
+7664,Pennsylvania,Lebanon County,$7.25
+7667,Pennsylvania,Lehigh County,$7.25
+7670,Pennsylvania,Luzerne County,$7.25
+7673,Pennsylvania,Lycoming County,$7.25
+7676,Pennsylvania,McKean County,$7.25
+7679,Pennsylvania,Mercer County,$7.25
+7682,Pennsylvania,Mifflin County,$7.25
+7685,Pennsylvania,Monroe County,$7.25
+7688,Pennsylvania,Montgomery County,$7.25
+7691,Pennsylvania,Montour County,$7.25
+7694,Pennsylvania,Northampton County,$7.25
+7697,Pennsylvania,Northumberland County,$7.25
+7700,Pennsylvania,Perry County,$7.25
+7703,Pennsylvania,Philadelphia County,$7.25
+7706,Pennsylvania,Pike County,$7.25
+7709,Pennsylvania,Potter County,$7.25
+7712,Pennsylvania,Schuylkill County,$7.25
+7715,Pennsylvania,Snyder County,$7.25
+7718,Pennsylvania,Somerset County,$7.25
+7721,Pennsylvania,Sullivan County,$7.25
+7724,Pennsylvania,Susquehanna County,$7.25
+7727,Pennsylvania,Tioga County,$7.25
+7730,Pennsylvania,Union County,$7.25
+7733,Pennsylvania,Venango County,$7.25
+7736,Pennsylvania,Warren County,$7.25
+7739,Pennsylvania,Washington County,$7.25
+7742,Pennsylvania,Wayne County,$7.25
+7745,Pennsylvania,Westmoreland County,$7.25
+7748,Pennsylvania,Wyoming County,$7.25
+7751,Pennsylvania,York County,$7.25
+7754,Pennsylvania,"Allentown-Bethlehem-Easton, PA",$7.25
+7757,Pennsylvania,"Altoona, PA",$7.25
+7760,Pennsylvania,"Bloomsburg-Berwick, PA",$7.25
+7763,Pennsylvania,"Chambersburg-Waynesboro, PA",$7.25
+7766,Pennsylvania,"East Stroudsburg, PA",$7.25
+7769,Pennsylvania,"Erie, PA",$7.25
+7772,Pennsylvania,"Gettysburg, PA",$7.25
+7775,Pennsylvania,"Harrisburg-Carlisle, PA",$7.25
+7778,Pennsylvania,"Johnstown, PA",$7.25
+7781,Pennsylvania,"Lancaster, PA",$7.25
+7784,Pennsylvania,"Lebanon, PA",$7.25
+7787,Pennsylvania,"Philadelphia-Camden-Wilmington, PA",$7.25
+7790,Pennsylvania,"Pittsburgh, PA",$7.25
+7793,Pennsylvania,"Reading, PA",$7.25
+7796,Pennsylvania,"Scranton--Wilkes-Barre--Hazleton, PA",$7.25
+7799,Pennsylvania,"State College, PA",$7.25
+7802,Pennsylvania,"Williamsport, PA",$7.25
+7805,Pennsylvania,"York-Hanover, PA",$7.25
+7808,Rhode Island,Bristol County,$10.50
+7811,Rhode Island,Kent County,$10.50
+7814,Rhode Island,Newport County,$10.50
+7817,Rhode Island,Providence County,$10.50
+7820,Rhode Island,Washington County,$10.50
+7823,Rhode Island,"Providence-Warwick, RI",$10.50
+7826,South Carolina,Abbeville County,$7.25
+7829,South Carolina,Aiken County,$7.25
+7832,South Carolina,Allendale County,$7.25
+7835,South Carolina,Anderson County,$7.25
+7838,South Carolina,Bamberg County,$7.25
+7841,South Carolina,Barnwell County,$7.25
+7844,South Carolina,Beaufort County,$7.25
+7847,South Carolina,Berkeley County,$7.25
+7850,South Carolina,Calhoun County,$7.25
+7853,South Carolina,Charleston County,$7.25
+7856,South Carolina,Cherokee County,$7.25
+7859,South Carolina,Chester County,$7.25
+7862,South Carolina,Chesterfield County,$7.25
+7865,South Carolina,Clarendon County,$7.25
+7868,South Carolina,Colleton County,$7.25
+7871,South Carolina,Darlington County,$7.25
+7874,South Carolina,Dillon County,$7.25
+7877,South Carolina,Dorchester County,$7.25
+7880,South Carolina,Edgefield County,$7.25
+7883,South Carolina,Fairfield County,$7.25
+7886,South Carolina,Florence County,$7.25
+7889,South Carolina,Georgetown County,$7.25
+7892,South Carolina,Greenville County,$7.25
+7895,South Carolina,Greenwood County,$7.25
+7898,South Carolina,Hampton County,$7.25
+7901,South Carolina,Horry County,$7.25
+7904,South Carolina,Jasper County,$7.25
+7907,South Carolina,Kershaw County,$7.25
+7910,South Carolina,Lancaster County,$7.25
+7913,South Carolina,Laurens County,$7.25
+7916,South Carolina,Lee County,$7.25
+7919,South Carolina,Lexington County,$7.25
+7922,South Carolina,Marion County,$7.25
+7925,South Carolina,Marlboro County,$7.25
+7928,South Carolina,McCormick County,$7.25
+7931,South Carolina,Newberry County,$7.25
+7934,South Carolina,Oconee County,$7.25
+7937,South Carolina,Orangeburg County,$7.25
+7940,South Carolina,Pickens County,$7.25
+7943,South Carolina,Richland County,$7.25
+7946,South Carolina,Saluda County,$7.25
+7949,South Carolina,Spartanburg County,$7.25
+7952,South Carolina,Sumter County,$7.25
+7955,South Carolina,Union County,$7.25
+7958,South Carolina,Williamsburg County,$7.25
+7961,South Carolina,York County,$7.25
+7964,South Carolina,"Charleston-North Charleston, SC",$7.25
+7967,South Carolina,"Columbia, SC",$7.25
+7970,South Carolina,"Florence, SC",$7.25
+7973,South Carolina,"Greenville-Anderson-Mauldin, SC",$7.25
+7976,South Carolina,"Hilton Head Island-Bluffton-Beaufort, SC",$7.25
+7979,South Carolina,"Myrtle Beach-Conway-North Myrtle Beach, SC",$7.25
+7982,South Carolina,"Spartanburg, SC",$7.25
+7985,South Carolina,"Sumter, SC",$7.25
+7988,South Dakota,Aurora County,$9.30
+7991,South Dakota,Beadle County,$9.30
+7994,South Dakota,Bennett County,$9.30
+7997,South Dakota,Bon Homme County,$9.30
+8000,South Dakota,Brookings County,$9.30
+8003,South Dakota,Brown County,$9.30
+8006,South Dakota,Brule County,$9.30
+8009,South Dakota,Buffalo County,$9.30
+8012,South Dakota,Butte County,$9.30
+8015,South Dakota,Campbell County,$9.30
+8018,South Dakota,Charles Mix County,$9.30
+8021,South Dakota,Clark County,$9.30
+8024,South Dakota,Clay County,$9.30
+8027,South Dakota,Codington County,$9.30
+8030,South Dakota,Corson County,$9.30
+8033,South Dakota,Custer County,$9.30
+8036,South Dakota,Davison County,$9.30
+8039,South Dakota,Day County,$9.30
+8042,South Dakota,Deuel County,$9.30
+8045,South Dakota,Dewey County,$9.30
+8048,South Dakota,Douglas County,$9.30
+8051,South Dakota,Edmunds County,$9.30
+8054,South Dakota,Fall River County,$9.30
+8057,South Dakota,Faulk County,$9.30
+8060,South Dakota,Grant County,$9.30
+8063,South Dakota,Gregory County,$9.30
+8066,South Dakota,Haakon County,$9.30
+8069,South Dakota,Hamlin County,$9.30
+8072,South Dakota,Hand County,$9.30
+8075,South Dakota,Hanson County,$9.30
+8078,South Dakota,Harding County,$9.30
+8081,South Dakota,Hughes County,$9.30
+8084,South Dakota,Hutchinson County,$9.30
+8087,South Dakota,Hyde County,$9.30
+8090,South Dakota,Jackson County,$9.30
+8093,South Dakota,Jerauld County,$9.30
+8096,South Dakota,Jones County,$9.30
+8099,South Dakota,Kingsbury County,$9.30
+8102,South Dakota,Lake County,$9.30
+8105,South Dakota,Lawrence County,$9.30
+8108,South Dakota,Lincoln County,$9.30
+8111,South Dakota,Lyman County,$9.30
+8114,South Dakota,Marshall County,$9.30
+8117,South Dakota,McCook County,$9.30
+8120,South Dakota,McPherson County,$9.30
+8123,South Dakota,Meade County,$9.30
+8126,South Dakota,Mellette County,$9.30
+8129,South Dakota,Miner County,$9.30
+8132,South Dakota,Minnehaha County,$9.30
+8135,South Dakota,Moody County,$9.30
+8138,South Dakota,Oglala Lakota County,$9.30
+8141,South Dakota,Pennington County,$9.30
+8144,South Dakota,Perkins County,$9.30
+8147,South Dakota,Potter County,$9.30
+8150,South Dakota,Roberts County,$9.30
+8153,South Dakota,Sanborn County,$9.30
+8156,South Dakota,Spink County,$9.30
+8159,South Dakota,Stanley County,$9.30
+8162,South Dakota,Sully County,$9.30
+8165,South Dakota,Todd County,$9.30
+8168,South Dakota,Tripp County,$9.30
+8171,South Dakota,Turner County,$9.30
+8174,South Dakota,Union County,$9.30
+8177,South Dakota,Walworth County,$9.30
+8180,South Dakota,Yankton County,$9.30
+8183,South Dakota,Ziebach County,$9.30
+8186,South Dakota,"Rapid City, SD",$9.30
+8189,South Dakota,"Sioux Falls, SD",$9.30
+8192,Tennessee,Anderson County,$7.25
+8195,Tennessee,Bedford County,$7.25
+8198,Tennessee,Benton County,$7.25
+8201,Tennessee,Bledsoe County,$7.25
+8204,Tennessee,Blount County,$7.25
+8207,Tennessee,Bradley County,$7.25
+8210,Tennessee,Campbell County,$7.25
+8213,Tennessee,Cannon County,$7.25
+8216,Tennessee,Carroll County,$7.25
+8219,Tennessee,Carter County,$7.25
+8222,Tennessee,Cheatham County,$7.25
+8225,Tennessee,Chester County,$7.25
+8228,Tennessee,Claiborne County,$7.25
+8231,Tennessee,Clay County,$7.25
+8234,Tennessee,Cocke County,$7.25
+8237,Tennessee,Coffee County,$7.25
+8240,Tennessee,Crockett County,$7.25
+8243,Tennessee,Cumberland County,$7.25
+8246,Tennessee,Davidson County,$7.25
+8249,Tennessee,Decatur County,$7.25
+8252,Tennessee,DeKalb County,$7.25
+8255,Tennessee,Dickson County,$7.25
+8258,Tennessee,Dyer County,$7.25
+8261,Tennessee,Fayette County,$7.25
+8264,Tennessee,Fentress County,$7.25
+8267,Tennessee,Franklin County,$7.25
+8270,Tennessee,Gibson County,$7.25
+8273,Tennessee,Giles County,$7.25
+8276,Tennessee,Grainger County,$7.25
+8279,Tennessee,Greene County,$7.25
+8282,Tennessee,Grundy County,$7.25
+8285,Tennessee,Hamblen County,$7.25
+8288,Tennessee,Hamilton County,$7.25
+8291,Tennessee,Hancock County,$7.25
+8294,Tennessee,Hardeman County,$7.25
+8297,Tennessee,Hardin County,$7.25
+8300,Tennessee,Hawkins County,$7.25
+8303,Tennessee,Haywood County,$7.25
+8306,Tennessee,Henderson County,$7.25
+8309,Tennessee,Henry County,$7.25
+8312,Tennessee,Hickman County,$7.25
+8315,Tennessee,Houston County,$7.25
+8318,Tennessee,Humphreys County,$7.25
+8321,Tennessee,Jackson County,$7.25
+8324,Tennessee,Jefferson County,$7.25
+8327,Tennessee,Johnson County,$7.25
+8330,Tennessee,Knox County,$7.25
+8333,Tennessee,Lake County,$7.25
+8336,Tennessee,Lauderdale County,$7.25
+8339,Tennessee,Lawrence County,$7.25
+8342,Tennessee,Lewis County,$7.25
+8345,Tennessee,Lincoln County,$7.25
+8348,Tennessee,Loudon County,$7.25
+8351,Tennessee,Macon County,$7.25
+8354,Tennessee,Madison County,$7.25
+8357,Tennessee,Marion County,$7.25
+8360,Tennessee,Marshall County,$7.25
+8363,Tennessee,Maury County,$7.25
+8366,Tennessee,McMinn County,$7.25
+8369,Tennessee,McNairy County,$7.25
+8372,Tennessee,Meigs County,$7.25
+8375,Tennessee,Monroe County,$7.25
+8378,Tennessee,Montgomery County,$7.25
+8381,Tennessee,Moore County,$7.25
+8384,Tennessee,Morgan County,$7.25
+8387,Tennessee,Obion County,$7.25
+8390,Tennessee,Overton County,$7.25
+8393,Tennessee,Perry County,$7.25
+8396,Tennessee,Pickett County,$7.25
+8399,Tennessee,Polk County,$7.25
+8402,Tennessee,Putnam County,$7.25
+8405,Tennessee,Rhea County,$7.25
+8408,Tennessee,Roane County,$7.25
+8411,Tennessee,Robertson County,$7.25
+8414,Tennessee,Rutherford County,$7.25
+8417,Tennessee,Scott County,$7.25
+8420,Tennessee,Sequatchie County,$7.25
+8423,Tennessee,Sevier County,$7.25
+8426,Tennessee,Shelby County,$7.25
+8429,Tennessee,Smith County,$7.25
+8432,Tennessee,Stewart County,$7.25
+8435,Tennessee,Sullivan County,$7.25
+8438,Tennessee,Sumner County,$7.25
+8441,Tennessee,Tipton County,$7.25
+8444,Tennessee,Trousdale County,$7.25
+8447,Tennessee,Unicoi County,$7.25
+8450,Tennessee,Union County,$7.25
+8453,Tennessee,Van Buren County,$7.25
+8456,Tennessee,Warren County,$7.25
+8459,Tennessee,Washington County,$7.25
+8462,Tennessee,Wayne County,$7.25
+8465,Tennessee,Weakley County,$7.25
+8468,Tennessee,White County,$7.25
+8471,Tennessee,Williamson County,$7.25
+8474,Tennessee,Wilson County,$7.25
+8477,Tennessee,"Chattanooga, TN",$7.25
+8480,Tennessee,"Clarksville, TN",$7.25
+8483,Tennessee,"Cleveland, TN",$7.25
+8486,Tennessee,"Jackson, TN",$7.25
+8489,Tennessee,"Johnson City, TN",$7.25
+8492,Tennessee,"Kingsport-Bristol-Bristol, TN",$7.25
+8495,Tennessee,"Knoxville, TN",$7.25
+8498,Tennessee,"Memphis, TN",$7.25
+8501,Tennessee,"Morristown, TN",$7.25
+8504,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",$7.25
+8507,Texas,Anderson County,$7.25
+8510,Texas,Andrews County,$7.25
+8513,Texas,Angelina County,$7.25
+8516,Texas,Aransas County,$7.25
+8519,Texas,Archer County,$7.25
+8522,Texas,Armstrong County,$7.25
+8525,Texas,Atascosa County,$7.25
+8528,Texas,Austin County,$7.25
+8531,Texas,Bailey County,$7.25
+8534,Texas,Bandera County,$7.25
+8537,Texas,Bastrop County,$7.25
+8540,Texas,Baylor County,$7.25
+8543,Texas,Bee County,$7.25
+8546,Texas,Bell County,$7.25
+8549,Texas,Bexar County,$7.25
+8552,Texas,Blanco County,$7.25
+8555,Texas,Borden County,$7.25
+8558,Texas,Bosque County,$7.25
+8561,Texas,Bowie County,$7.25
+8564,Texas,Brazoria County,$7.25
+8567,Texas,Brazos County,$7.25
+8570,Texas,Brewster County,$7.25
+8573,Texas,Briscoe County,$7.25
+8576,Texas,Brooks County,$7.25
+8579,Texas,Brown County,$7.25
+8582,Texas,Burleson County,$7.25
+8585,Texas,Burnet County,$7.25
+8588,Texas,Caldwell County,$7.25
+8591,Texas,Calhoun County,$7.25
+8594,Texas,Callahan County,$7.25
+8597,Texas,Cameron County,$7.25
+8600,Texas,Camp County,$7.25
+8603,Texas,Carson County,$7.25
+8606,Texas,Cass County,$7.25
+8609,Texas,Castro County,$7.25
+8612,Texas,Chambers County,$7.25
+8615,Texas,Cherokee County,$7.25
+8618,Texas,Childress County,$7.25
+8621,Texas,Clay County,$7.25
+8624,Texas,Cochran County,$7.25
+8627,Texas,Coke County,$7.25
+8630,Texas,Coleman County,$7.25
+8633,Texas,Collin County,$7.25
+8636,Texas,Collingsworth County,$7.25
+8639,Texas,Colorado County,$7.25
+8642,Texas,Comal County,$7.25
+8645,Texas,Comanche County,$7.25
+8648,Texas,Concho County,$7.25
+8651,Texas,Cooke County,$7.25
+8654,Texas,Coryell County,$7.25
+8657,Texas,Cottle County,$7.25
+8660,Texas,Crane County,$7.25
+8663,Texas,Crockett County,$7.25
+8666,Texas,Crosby County,$7.25
+8669,Texas,Culberson County,$7.25
+8672,Texas,Dallam County,$7.25
+8675,Texas,Dallas County,$7.25
+8678,Texas,Dawson County,$7.25
+8681,Texas,Deaf Smith County,$7.25
+8684,Texas,Delta County,$7.25
+8687,Texas,Denton County,$7.25
+8690,Texas,DeWitt County,$7.25
+8693,Texas,Dickens County,$7.25
+8696,Texas,Dimmit County,$7.25
+8699,Texas,Donley County,$7.25
+8702,Texas,Duval County,$7.25
+8705,Texas,Eastland County,$7.25
+8708,Texas,Ector County,$7.25
+8711,Texas,Edwards County,$7.25
+8714,Texas,Ellis County,$7.25
+8717,Texas,El Paso County,$7.25
+8720,Texas,Erath County,$7.25
+8723,Texas,Falls County,$7.25
+8726,Texas,Fannin County,$7.25
+8729,Texas,Fayette County,$7.25
+8732,Texas,Fisher County,$7.25
+8735,Texas,Floyd County,$7.25
+8738,Texas,Foard County,$7.25
+8741,Texas,Fort Bend County,$7.25
+8744,Texas,Franklin County,$7.25
+8747,Texas,Freestone County,$7.25
+8750,Texas,Frio County,$7.25
+8753,Texas,Gaines County,$7.25
+8756,Texas,Galveston County,$7.25
+8759,Texas,Garza County,$7.25
+8762,Texas,Gillespie County,$7.25
+8765,Texas,Glasscock County,$7.25
+8768,Texas,Goliad County,$7.25
+8771,Texas,Gonzales County,$7.25
+8774,Texas,Gray County,$7.25
+8777,Texas,Grayson County,$7.25
+8780,Texas,Gregg County,$7.25
+8783,Texas,Grimes County,$7.25
+8786,Texas,Guadalupe County,$7.25
+8789,Texas,Hale County,$7.25
+8792,Texas,Hall County,$7.25
+8795,Texas,Hamilton County,$7.25
+8798,Texas,Hansford County,$7.25
+8801,Texas,Hardeman County,$7.25
+8804,Texas,Hardin County,$7.25
+8807,Texas,Harris County,$7.25
+8810,Texas,Harrison County,$7.25
+8813,Texas,Hartley County,$7.25
+8816,Texas,Haskell County,$7.25
+8819,Texas,Hays County,$7.25
+8822,Texas,Hemphill County,$7.25
+8825,Texas,Henderson County,$7.25
+8828,Texas,Hidalgo County,$7.25
+8831,Texas,Hill County,$7.25
+8834,Texas,Hockley County,$7.25
+8837,Texas,Hood County,$7.25
+8840,Texas,Hopkins County,$7.25
+8843,Texas,Houston County,$7.25
+8846,Texas,Howard County,$7.25
+8849,Texas,Hudspeth County,$7.25
+8852,Texas,Hunt County,$7.25
+8855,Texas,Hutchinson County,$7.25
+8858,Texas,Irion County,$7.25
+8861,Texas,Jack County,$7.25
+8864,Texas,Jackson County,$7.25
+8867,Texas,Jasper County,$7.25
+8870,Texas,Jeff Davis County,$7.25
+8873,Texas,Jefferson County,$7.25
+8876,Texas,Jim Hogg County,$7.25
+8879,Texas,Jim Wells County,$7.25
+8882,Texas,Johnson County,$7.25
+8885,Texas,Jones County,$7.25
+8888,Texas,Karnes County,$7.25
+8891,Texas,Kaufman County,$7.25
+8894,Texas,Kendall County,$7.25
+8897,Texas,Kenedy County,$7.25
+8900,Texas,Kent County,$7.25
+8903,Texas,Kerr County,$7.25
+8906,Texas,Kimble County,$7.25
+8909,Texas,King County,$7.25
+8912,Texas,Kinney County,$7.25
+8915,Texas,Kleberg County,$7.25
+8918,Texas,Knox County,$7.25
+8921,Texas,Lamar County,$7.25
+8924,Texas,Lamb County,$7.25
+8927,Texas,Lampasas County,$7.25
+8930,Texas,La Salle County,$7.25
+8933,Texas,Lavaca County,$7.25
+8936,Texas,Lee County,$7.25
+8939,Texas,Leon County,$7.25
+8942,Texas,Liberty County,$7.25
+8945,Texas,Limestone County,$7.25
+8948,Texas,Lipscomb County,$7.25
+8951,Texas,Live Oak County,$7.25
+8954,Texas,Llano County,$7.25
+8957,Texas,Loving County,$7.25
+8960,Texas,Lubbock County,$7.25
+8963,Texas,Lynn County,$7.25
+8966,Texas,Madison County,$7.25
+8969,Texas,Marion County,$7.25
+8972,Texas,Martin County,$7.25
+8975,Texas,Mason County,$7.25
+8978,Texas,Matagorda County,$7.25
+8981,Texas,Maverick County,$7.25
+8984,Texas,McCulloch County,$7.25
+8987,Texas,McLennan County,$7.25
+8990,Texas,McMullen County,$7.25
+8993,Texas,Medina County,$7.25
+8996,Texas,Menard County,$7.25
+8999,Texas,Midland County,$7.25
+9002,Texas,Milam County,$7.25
+9005,Texas,Mills County,$7.25
+9008,Texas,Mitchell County,$7.25
+9011,Texas,Montague County,$7.25
+9014,Texas,Montgomery County,$7.25
+9017,Texas,Moore County,$7.25
+9020,Texas,Morris County,$7.25
+9023,Texas,Motley County,$7.25
+9026,Texas,Nacogdoches County,$7.25
+9029,Texas,Navarro County,$7.25
+9032,Texas,Newton County,$7.25
+9035,Texas,Nolan County,$7.25
+9038,Texas,Nueces County,$7.25
+9041,Texas,Ochiltree County,$7.25
+9044,Texas,Oldham County,$7.25
+9047,Texas,Orange County,$7.25
+9050,Texas,Palo Pinto County,$7.25
+9053,Texas,Panola County,$7.25
+9056,Texas,Parker County,$7.25
+9059,Texas,Parmer County,$7.25
+9062,Texas,Pecos County,$7.25
+9065,Texas,Polk County,$7.25
+9068,Texas,Potter County,$7.25
+9071,Texas,Presidio County,$7.25
+9074,Texas,Rains County,$7.25
+9077,Texas,Randall County,$7.25
+9080,Texas,Reagan County,$7.25
+9083,Texas,Real County,$7.25
+9086,Texas,Red River County,$7.25
+9089,Texas,Reeves County,$7.25
+9092,Texas,Refugio County,$7.25
+9095,Texas,Roberts County,$7.25
+9098,Texas,Robertson County,$7.25
+9101,Texas,Rockwall County,$7.25
+9104,Texas,Runnels County,$7.25
+9107,Texas,Rusk County,$7.25
+9110,Texas,Sabine County,$7.25
+9113,Texas,San Augustine County,$7.25
+9116,Texas,San Jacinto County,$7.25
+9119,Texas,San Patricio County,$7.25
+9122,Texas,San Saba County,$7.25
+9125,Texas,Schleicher County,$7.25
+9128,Texas,Scurry County,$7.25
+9131,Texas,Shackelford County,$7.25
+9134,Texas,Shelby County,$7.25
+9137,Texas,Sherman County,$7.25
+9140,Texas,Smith County,$7.25
+9143,Texas,Somervell County,$7.25
+9146,Texas,Starr County,$7.25
+9149,Texas,Stephens County,$7.25
+9152,Texas,Sterling County,$7.25
+9155,Texas,Stonewall County,$7.25
+9158,Texas,Sutton County,$7.25
+9161,Texas,Swisher County,$7.25
+9164,Texas,Tarrant County,$7.25
+9167,Texas,Taylor County,$7.25
+9170,Texas,Terrell County,$7.25
+9173,Texas,Terry County,$7.25
+9176,Texas,Throckmorton County,$7.25
+9179,Texas,Titus County,$7.25
+9182,Texas,Tom Green County,$7.25
+9185,Texas,Travis County,$7.25
+9188,Texas,Trinity County,$7.25
+9191,Texas,Tyler County,$7.25
+9194,Texas,Upshur County,$7.25
+9197,Texas,Upton County,$7.25
+9200,Texas,Uvalde County,$7.25
+9203,Texas,Val Verde County,$7.25
+9206,Texas,Van Zandt County,$7.25
+9209,Texas,Victoria County,$7.25
+9212,Texas,Walker County,$7.25
+9215,Texas,Waller County,$7.25
+9218,Texas,Ward County,$7.25
+9221,Texas,Washington County,$7.25
+9224,Texas,Webb County,$7.25
+9227,Texas,Wharton County,$7.25
+9230,Texas,Wheeler County,$7.25
+9233,Texas,Wichita County,$7.25
+9236,Texas,Wilbarger County,$7.25
+9239,Texas,Willacy County,$7.25
+9242,Texas,Williamson County,$7.25
+9245,Texas,Wilson County,$7.25
+9248,Texas,Winkler County,$7.25
+9251,Texas,Wise County,$7.25
+9254,Texas,Wood County,$7.25
+9257,Texas,Yoakum County,$7.25
+9260,Texas,Young County,$7.25
+9263,Texas,Zapata County,$7.25
+9266,Texas,Zavala County,$7.25
+9269,Texas,"Abilene, TX",$7.25
+9272,Texas,"Amarillo, TX",$7.25
+9275,Texas,"Austin-Round Rock, TX",$7.25
+9278,Texas,"Beaumont-Port Arthur, TX",$7.25
+9281,Texas,"Brownsville-Harlingen, TX",$7.25
+9284,Texas,"College Station-Bryan, TX",$7.25
+9287,Texas,"Corpus Christi, TX",$7.25
+9290,Texas,"Dallas-Fort Worth-Arlington, TX",$7.25
+9293,Texas,"El Paso, TX",$7.25
+9296,Texas,"Houston-The Woodlands-Sugar Land, TX",$7.25
+9299,Texas,"Killeen-Temple, TX",$7.25
+9302,Texas,"Laredo, TX",$7.25
+9305,Texas,"Longview, TX",$7.25
+9308,Texas,"Lubbock, TX",$7.25
+9311,Texas,"McAllen-Edinburg-Mission, TX",$7.25
+9314,Texas,"Midland, TX",$7.25
+9317,Texas,"Odessa, TX",$7.25
+9320,Texas,"San Angelo, TX",$7.25
+9323,Texas,"San Antonio-New Braunfels, TX",$7.25
+9326,Texas,"Sherman-Denison, TX",$7.25
+9329,Texas,"Texarkana, TX",$7.25
+9332,Texas,"Tyler, TX",$7.25
+9335,Texas,"Victoria, TX",$7.25
+9338,Texas,"Waco, TX",$7.25
+9341,Texas,"Wichita Falls, TX",$7.25
+9344,Utah,Beaver County,$7.25
+9347,Utah,Box Elder County,$7.25
+9350,Utah,Cache County,$7.25
+9353,Utah,Carbon County,$7.25
+9356,Utah,Daggett County,$7.25
+9359,Utah,Davis County,$7.25
+9362,Utah,Duchesne County,$7.25
+9365,Utah,Emery County,$7.25
+9368,Utah,Garfield County,$7.25
+9371,Utah,Grand County,$7.25
+9374,Utah,Iron County,$7.25
+9377,Utah,Juab County,$7.25
+9380,Utah,Kane County,$7.25
+9383,Utah,Millard County,$7.25
+9386,Utah,Morgan County,$7.25
+9389,Utah,Piute County,$7.25
+9392,Utah,Rich County,$7.25
+9395,Utah,Salt Lake County,$7.25
+9398,Utah,San Juan County,$7.25
+9401,Utah,Sanpete County,$7.25
+9404,Utah,Sevier County,$7.25
+9407,Utah,Summit County,$7.25
+9410,Utah,Tooele County,$7.25
+9413,Utah,Uintah County,$7.25
+9416,Utah,Utah County,$7.25
+9419,Utah,Wasatch County,$7.25
+9422,Utah,Washington County,$7.25
+9425,Utah,Wayne County,$7.25
+9428,Utah,Weber County,$7.25
+9431,Utah,"Logan, UT",$7.25
+9434,Utah,"Ogden-Clearfield, UT",$7.25
+9437,Utah,"Provo-Orem, UT",$7.25
+9440,Utah,"St. George, UT",$7.25
+9443,Utah,"Salt Lake City, UT",$7.25
+9446,Vermont,Addison County,$10.96
+9449,Vermont,Bennington County,$10.96
+9452,Vermont,Caledonia County,$10.96
+9455,Vermont,Chittenden County,$10.96
+9458,Vermont,Essex County,$10.96
+9461,Vermont,Franklin County,$10.96
+9464,Vermont,Grand Isle County,$10.96
+9467,Vermont,Lamoille County,$10.96
+9470,Vermont,Orange County,$10.96
+9473,Vermont,Orleans County,$10.96
+9476,Vermont,Rutland County,$10.96
+9479,Vermont,Washington County,$10.96
+9482,Vermont,Windham County,$10.96
+9485,Vermont,Windsor County,$10.96
+9488,Vermont,"Burlington-South Burlington, VT",$10.96
+9491,Virginia,Accomack County,$7.25
+9494,Virginia,Albemarle County,$7.25
+9497,Virginia,Alexandria city,$7.25
+9500,Virginia,Alleghany County,$7.25
+9503,Virginia,Amelia County,$7.25
+9506,Virginia,Amherst County,$7.25
+9509,Virginia,Appomattox County,$7.25
+9512,Virginia,Arlington County,$7.25
+9515,Virginia,Augusta County,$7.25
+9518,Virginia,Bath County,$7.25
+9521,Virginia,Bedford County,$7.25
+9524,Virginia,Bland County,$7.25
+9527,Virginia,Botetourt County,$7.25
+9530,Virginia,Bristol city,$7.25
+9533,Virginia,Brunswick County,$7.25
+9536,Virginia,Buchanan County,$7.25
+9539,Virginia,Buckingham County,$7.25
+9542,Virginia,Buena Vista city,$7.25
+9545,Virginia,Campbell County,$7.25
+9548,Virginia,Caroline County,$7.25
+9551,Virginia,Carroll County,$7.25
+9554,Virginia,Charles City County,$7.25
+9557,Virginia,Charlotte County,$7.25
+9560,Virginia,Charlottesville city,$7.25
+9563,Virginia,Chesapeake city,$7.25
+9566,Virginia,Chesterfield County,$7.25
+9569,Virginia,Clarke County,$7.25
+9572,Virginia,Colonial Heights city,$7.25
+9575,Virginia,Covington city,$7.25
+9578,Virginia,Craig County,$7.25
+9581,Virginia,Culpeper County,$7.25
+9584,Virginia,Cumberland County,$7.25
+9587,Virginia,Danville city,$7.25
+9590,Virginia,Dickenson County,$7.25
+9593,Virginia,Dinwiddie County,$7.25
+9596,Virginia,Emporia city,$7.25
+9599,Virginia,Essex County,$7.25
+9602,Virginia,Fairfax city,$7.25
+9605,Virginia,Fairfax County,$7.25
+9608,Virginia,Falls Church city,$7.25
+9611,Virginia,Fauquier County,$7.25
+9614,Virginia,Floyd County,$7.25
+9617,Virginia,Fluvanna County,$7.25
+9620,Virginia,Franklin city,$7.25
+9623,Virginia,Franklin County,$7.25
+9626,Virginia,Frederick County,$7.25
+9629,Virginia,Fredericksburg city,$7.25
+9632,Virginia,Galax city,$7.25
+9635,Virginia,Giles County,$7.25
+9638,Virginia,Gloucester County,$7.25
+9641,Virginia,Goochland County,$7.25
+9644,Virginia,Grayson County,$7.25
+9647,Virginia,Greene County,$7.25
+9650,Virginia,Greensville County,$7.25
+9653,Virginia,Halifax County,$7.25
+9656,Virginia,Hampton city,$7.25
+9659,Virginia,Hanover County,$7.25
+9662,Virginia,Harrisonburg city,$7.25
+9665,Virginia,Henrico County,$7.25
+9668,Virginia,Henry County,$7.25
+9671,Virginia,Highland County,$7.25
+9674,Virginia,Hopewell city,$7.25
+9677,Virginia,Isle of Wight County,$7.25
+9680,Virginia,James City County,$7.25
+9683,Virginia,King and Queen County,$7.25
+9686,Virginia,King George County,$7.25
+9689,Virginia,King William County,$7.25
+9692,Virginia,Lancaster County,$7.25
+9695,Virginia,Lee County,$7.25
+9698,Virginia,Lexington city,$7.25
+9701,Virginia,Loudoun County,$7.25
+9704,Virginia,Louisa County,$7.25
+9707,Virginia,Lunenburg County,$7.25
+9710,Virginia,Lynchburg city,$7.25
+9713,Virginia,Madison County,$7.25
+9716,Virginia,Manassas city,$7.25
+9719,Virginia,Manassas Park city,$7.25
+9722,Virginia,Martinsville city,$7.25
+9725,Virginia,Mathews County,$7.25
+9728,Virginia,Mecklenburg County,$7.25
+9731,Virginia,Middlesex County,$7.25
+9734,Virginia,Montgomery County,$7.25
+9737,Virginia,Nelson County,$7.25
+9740,Virginia,New Kent County,$7.25
+9743,Virginia,Newport News city,$7.25
+9746,Virginia,Norfolk city,$7.25
+9749,Virginia,Northampton County,$7.25
+9752,Virginia,Northumberland County,$7.25
+9755,Virginia,Norton city,$7.25
+9758,Virginia,Nottoway County,$7.25
+9761,Virginia,Orange County,$7.25
+9764,Virginia,Page County,$7.25
+9767,Virginia,Patrick County,$7.25
+9770,Virginia,Petersburg city,$7.25
+9773,Virginia,Pittsylvania County,$7.25
+9776,Virginia,Poquoson city,$7.25
+9779,Virginia,Portsmouth city,$7.25
+9782,Virginia,Powhatan County,$7.25
+9785,Virginia,Prince Edward County,$7.25
+9788,Virginia,Prince George County,$7.25
+9791,Virginia,Prince William County,$7.25
+9794,Virginia,Pulaski County,$7.25
+9797,Virginia,Radford city,$7.25
+9800,Virginia,Rappahannock County,$7.25
+9803,Virginia,Richmond city,$7.25
+9806,Virginia,Richmond County,$7.25
+9809,Virginia,Roanoke city,$7.25
+9812,Virginia,Roanoke County,$7.25
+9815,Virginia,Rockbridge County,$7.25
+9818,Virginia,Rockingham County,$7.25
+9821,Virginia,Russell County,$7.25
+9824,Virginia,Salem city,$7.25
+9827,Virginia,Scott County,$7.25
+9830,Virginia,Shenandoah County,$7.25
+9833,Virginia,Smyth County,$7.25
+9836,Virginia,Southampton County,$7.25
+9839,Virginia,Spotsylvania County,$7.25
+9842,Virginia,Stafford County,$7.25
+9845,Virginia,Staunton city,$7.25
+9848,Virginia,Suffolk city,$7.25
+9851,Virginia,Surry County,$7.25
+9854,Virginia,Sussex County,$7.25
+9857,Virginia,Tazewell County,$7.25
+9860,Virginia,Virginia Beach city,$7.25
+9863,Virginia,Warren County,$7.25
+9866,Virginia,Washington County,$7.25
+9869,Virginia,Waynesboro city,$7.25
+9872,Virginia,Westmoreland County,$7.25
+9875,Virginia,Williamsburg city,$7.25
+9878,Virginia,Winchester city,$7.25
+9881,Virginia,Wise County,$7.25
+9884,Virginia,Wythe County,$7.25
+9887,Virginia,York County,$7.25
+9890,Virginia,"Blacksburg-Christiansburg-Radford, VA",$7.25
+9893,Virginia,"Charlottesville, VA",$7.25
+9896,Virginia,"Harrisonburg, VA",$7.25
+9899,Virginia,"Lynchburg, VA",$7.25
+9902,Virginia,"Richmond, VA",$7.25
+9905,Virginia,"Roanoke, VA",$7.25
+9908,Virginia,"Staunton-Waynesboro, VA",$7.25
+9911,Virginia,"Virginia Beach-Norfolk-Newport News, VA",$7.25
+9914,Virginia,"Winchester, VA",$7.25
+9917,Washington,Adams County,$13.50
+9920,Washington,Asotin County,$13.50
+9923,Washington,Benton County,$13.50
+9926,Washington,Chelan County,$13.50
+9929,Washington,Clallam County,$13.50
+9932,Washington,Clark County,$13.50
+9935,Washington,Columbia County,$13.50
+9938,Washington,Cowlitz County,$13.50
+9941,Washington,Douglas County,$13.50
+9944,Washington,Ferry County,$13.50
+9947,Washington,Franklin County,$13.50
+9950,Washington,Garfield County,$13.50
+9953,Washington,Grant County,$13.50
+9956,Washington,Grays Harbor County,$13.50
+9959,Washington,Island County,$13.50
+9962,Washington,Jefferson County,$13.50
+9965,Washington,King County,$13.50
+9968,Washington,Kitsap County,$13.50
+9971,Washington,Kittitas County,$13.50
+9974,Washington,Klickitat County,$13.50
+9977,Washington,Lewis County,$13.50
+9980,Washington,Lincoln County,$13.50
+9983,Washington,Mason County,$13.50
+9986,Washington,Okanogan County,$13.50
+9989,Washington,Pacific County,$13.50
+9992,Washington,Pend Oreille County,$13.50
+9995,Washington,Pierce County,$13.50
+9998,Washington,San Juan County,$13.50
+10001,Washington,Skagit County,$13.50
+10004,Washington,Skamania County,$13.50
+10007,Washington,Snohomish County,$13.50
+10010,Washington,Spokane County,$13.50
+10013,Washington,Stevens County,$13.50
+10016,Washington,Thurston County,$13.50
+10019,Washington,Wahkiakum County,$13.50
+10022,Washington,Walla Walla County,$13.50
+10025,Washington,Whatcom County,$13.50
+10028,Washington,Whitman County,$13.50
+10031,Washington,Yakima County,$13.50
+10034,Washington,"Bellingham, WA",$13.50
+10037,Washington,"Bremerton-Silverdale, WA",$13.50
+10040,Washington,"Kennewick-Richland, WA",$13.50
+10043,Washington,"Longview, WA",$13.50
+10046,Washington,"Mount Vernon-Anacortes, WA",$13.50
+10049,Washington,"Olympia-Tumwater, WA",$13.50
+10052,Washington,"Seattle-Tacoma-Bellevue, WA",$13.50
+10055,Washington,"Spokane-Spokane Valley, WA",$13.50
+10058,Washington,"Walla Walla, WA",$13.50
+10061,Washington,"Wenatchee, WA",$13.50
+10064,Washington,"Yakima, WA",$13.50
+10067,West Virginia,Barbour County,$8.75
+10070,West Virginia,Berkeley County,$8.75
+10073,West Virginia,Boone County,$8.75
+10076,West Virginia,Braxton County,$8.75
+10079,West Virginia,Brooke County,$8.75
+10082,West Virginia,Cabell County,$8.75
+10085,West Virginia,Calhoun County,$8.75
+10088,West Virginia,Clay County,$8.75
+10091,West Virginia,Doddridge County,$8.75
+10094,West Virginia,Fayette County,$8.75
+10097,West Virginia,Gilmer County,$8.75
+10100,West Virginia,Grant County,$8.75
+10103,West Virginia,Greenbrier County,$8.75
+10106,West Virginia,Hampshire County,$8.75
+10109,West Virginia,Hancock County,$8.75
+10112,West Virginia,Hardy County,$8.75
+10115,West Virginia,Harrison County,$8.75
+10118,West Virginia,Jackson County,$8.75
+10121,West Virginia,Jefferson County,$8.75
+10124,West Virginia,Kanawha County,$8.75
+10127,West Virginia,Lewis County,$8.75
+10130,West Virginia,Lincoln County,$8.75
+10133,West Virginia,Logan County,$8.75
+10136,West Virginia,Marion County,$8.75
+10139,West Virginia,Marshall County,$8.75
+10142,West Virginia,Mason County,$8.75
+10145,West Virginia,McDowell County,$8.75
+10148,West Virginia,Mercer County,$8.75
+10151,West Virginia,Mineral County,$8.75
+10154,West Virginia,Mingo County,$8.75
+10157,West Virginia,Monongalia County,$8.75
+10160,West Virginia,Monroe County,$8.75
+10163,West Virginia,Morgan County,$8.75
+10166,West Virginia,Nicholas County,$8.75
+10169,West Virginia,Ohio County,$8.75
+10172,West Virginia,Pendleton County,$8.75
+10175,West Virginia,Pleasants County,$8.75
+10178,West Virginia,Pocahontas County,$8.75
+10181,West Virginia,Preston County,$8.75
+10184,West Virginia,Putnam County,$8.75
+10187,West Virginia,Raleigh County,$8.75
+10190,West Virginia,Randolph County,$8.75
+10193,West Virginia,Ritchie County,$8.75
+10196,West Virginia,Roane County,$8.75
+10199,West Virginia,Summers County,$8.75
+10202,West Virginia,Taylor County,$8.75
+10205,West Virginia,Tucker County,$8.75
+10208,West Virginia,Tyler County,$8.75
+10211,West Virginia,Upshur County,$8.75
+10214,West Virginia,Wayne County,$8.75
+10217,West Virginia,Webster County,$8.75
+10220,West Virginia,Wetzel County,$8.75
+10223,West Virginia,Wirt County,$8.75
+10226,West Virginia,Wood County,$8.75
+10229,West Virginia,Wyoming County,$8.75
+10232,West Virginia,"Beckley, WV",$8.75
+10235,West Virginia,"Charleston, WV",$8.75
+10238,West Virginia,"Huntington-Ashland, WV",$8.75
+10241,West Virginia,"Morgantown, WV",$8.75
+10244,West Virginia,"Parkersburg-Vienna, WV",$8.75
+10247,West Virginia,"Weirton-Steubenville, WV",$8.75
+10250,West Virginia,"Wheeling, WV",$8.75
+10253,Wisconsin,Adams County,$7.25
+10256,Wisconsin,Ashland County,$7.25
+10259,Wisconsin,Barron County,$7.25
+10262,Wisconsin,Bayfield County,$7.25
+10265,Wisconsin,Brown County,$7.25
+10268,Wisconsin,Buffalo County,$7.25
+10271,Wisconsin,Burnett County,$7.25
+10274,Wisconsin,Calumet County,$7.25
+10277,Wisconsin,Chippewa County,$7.25
+10280,Wisconsin,Clark County,$7.25
+10283,Wisconsin,Columbia County,$7.25
+10286,Wisconsin,Crawford County,$7.25
+10289,Wisconsin,Dane County,$7.25
+10292,Wisconsin,Dodge County,$7.25
+10295,Wisconsin,Door County,$7.25
+10298,Wisconsin,Douglas County,$7.25
+10301,Wisconsin,Dunn County,$7.25
+10304,Wisconsin,Eau Claire County,$7.25
+10307,Wisconsin,Florence County,$7.25
+10310,Wisconsin,Fond du Lac County,$7.25
+10313,Wisconsin,Forest County,$7.25
+10316,Wisconsin,Grant County,$7.25
+10319,Wisconsin,Green County,$7.25
+10322,Wisconsin,Green Lake County,$7.25
+10325,Wisconsin,Iowa County,$7.25
+10328,Wisconsin,Iron County,$7.25
+10331,Wisconsin,Jackson County,$7.25
+10334,Wisconsin,Jefferson County,$7.25
+10337,Wisconsin,Juneau County,$7.25
+10340,Wisconsin,Kenosha County,$7.25
+10343,Wisconsin,Kewaunee County,$7.25
+10346,Wisconsin,La Crosse County,$7.25
+10349,Wisconsin,Lafayette County,$7.25
+10352,Wisconsin,Langlade County,$7.25
+10355,Wisconsin,Lincoln County,$7.25
+10358,Wisconsin,Manitowoc County,$7.25
+10361,Wisconsin,Marathon County,$7.25
+10364,Wisconsin,Marinette County,$7.25
+10367,Wisconsin,Marquette County,$7.25
+10370,Wisconsin,Menominee County,$7.25
+10373,Wisconsin,Milwaukee County,$7.25
+10376,Wisconsin,Monroe County,$7.25
+10379,Wisconsin,Oconto County,$7.25
+10382,Wisconsin,Oneida County,$7.25
+10385,Wisconsin,Outagamie County,$7.25
+10388,Wisconsin,Ozaukee County,$7.25
+10391,Wisconsin,Pepin County,$7.25
+10394,Wisconsin,Pierce County,$7.25
+10397,Wisconsin,Polk County,$7.25
+10400,Wisconsin,Portage County,$7.25
+10403,Wisconsin,Price County,$7.25
+10406,Wisconsin,Racine County,$7.25
+10409,Wisconsin,Richland County,$7.25
+10412,Wisconsin,Rock County,$7.25
+10415,Wisconsin,Rusk County,$7.25
+10418,Wisconsin,Sauk County,$7.25
+10421,Wisconsin,Sawyer County,$7.25
+10424,Wisconsin,Shawano County,$7.25
+10427,Wisconsin,Sheboygan County,$7.25
+10430,Wisconsin,St. Croix County,$7.25
+10433,Wisconsin,Taylor County,$7.25
+10436,Wisconsin,Trempealeau County,$7.25
+10439,Wisconsin,Vernon County,$7.25
+10442,Wisconsin,Vilas County,$7.25
+10445,Wisconsin,Walworth County,$7.25
+10448,Wisconsin,Washburn County,$7.25
+10451,Wisconsin,Washington County,$7.25
+10454,Wisconsin,Waukesha County,$7.25
+10457,Wisconsin,Waupaca County,$7.25
+10460,Wisconsin,Waushara County,$7.25
+10463,Wisconsin,Winnebago County,$7.25
+10466,Wisconsin,Wood County,$7.25
+10469,Wisconsin,"Appleton, WI",$7.25
+10472,Wisconsin,"Eau Claire, WI",$7.25
+10475,Wisconsin,"Fond du Lac, WI",$7.25
+10478,Wisconsin,"Green Bay, WI",$7.25
+10481,Wisconsin,"Janesville-Beloit, WI",$7.25
+10484,Wisconsin,"La Crosse-Onalaska, WI",$7.25
+10487,Wisconsin,"Madison, WI",$7.25
+10490,Wisconsin,"Milwaukee-Waukesha-West Allis, WI",$7.25
+10493,Wisconsin,"Oshkosh-Neenah, WI",$7.25
+10496,Wisconsin,"Racine, WI",$7.25
+10499,Wisconsin,"Sheboygan, WI",$7.25
+10502,Wisconsin,"Wausau, WI",$7.25
+10505,Wyoming,Albany County,$7.25
+10508,Wyoming,Big Horn County,$7.25
+10511,Wyoming,Campbell County,$7.25
+10514,Wyoming,Carbon County,$7.25
+10517,Wyoming,Converse County,$7.25
+10520,Wyoming,Crook County,$7.25
+10523,Wyoming,Fremont County,$7.25
+10526,Wyoming,Goshen County,$7.25
+10529,Wyoming,Hot Springs County,$7.25
+10532,Wyoming,Johnson County,$7.25
+10535,Wyoming,Laramie County,$7.25
+10538,Wyoming,Lincoln County,$7.25
+10541,Wyoming,Natrona County,$7.25
+10544,Wyoming,Niobrara County,$7.25
+10547,Wyoming,Park County,$7.25
+10550,Wyoming,Platte County,$7.25
+10553,Wyoming,Sheridan County,$7.25
+10556,Wyoming,Sublette County,$7.25
+10559,Wyoming,Sweetwater County,$7.25
+10562,Wyoming,Teton County,$7.25
+10565,Wyoming,Uinta County,$7.25
+10568,Wyoming,Washakie County,$7.25
+10571,Wyoming,Weston County,$7.25
+10574,Wyoming,"Casper, WY",$7.25
+10577,Wyoming,"Cheyenne, WY",$7.25
