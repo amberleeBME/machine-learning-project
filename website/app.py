@@ -84,12 +84,12 @@ def chart3():
     df = pd.read_csv(csv_path, encoding="utf-8")
 
 
-    fig = px.bar(df, x="State", y=["pct_college"])
+    fig = px.bar(df, x="State", y=["pct_college"], color="County")
 
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    header="Fortune 500"
+    header="College Graduate Percentage"
     description = """
-    This chart illustrates the average fortune 500 company rank, total amount of employees, total revenue, total profit and the total amount of fortune 500 companies located in major cities in the United States.
+    This chart illustrates the percentage of college graduates for the state/county level.
     """
     return render_template('chart1.html', graphJSON=graphJSON, header=header,description=description)
 
