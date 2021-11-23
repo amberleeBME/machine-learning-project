@@ -14,3 +14,5 @@ Data sources: Living wage data, FBI crime Data, & any other sources that fit
 * [Click here](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/) to directly access data in Excel or CSV formats.
 
 Methodology: ETL data sources, train into whichever model best explains trends, analyze changes in crime from projecting new scenarios
+
+web app:https://living-wages-and-crime-project.herokuapp.com/
